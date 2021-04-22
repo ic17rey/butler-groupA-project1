@@ -1,5 +1,5 @@
-# Project Title
-How Height Affects the NBA
+
+# How Player Height Affects the NBA
 ### Team Members
 *Lindsay Reynolds, Nick Sheets*
 ### Project Description
