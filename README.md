@@ -47,7 +47,7 @@ Teams:
 
 APIs:  
 [NBA-API](https://pypi.org/project/nba-api/)  
-(API that is available as a pip install)
+(API that is available as a pip install)  
 [rapidapi.com](https://rapidapi.com/blog/nba-basketball-stats-api/#:~:text=Updated%3A%20The%20API%2DNBA%20is,TheRundown)  
 [sportradar.com](https://developer.sportradar.com/docs/read/Home)
 
