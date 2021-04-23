@@ -41,7 +41,8 @@ Teams:
  
 ### Datasets/Resources to be used
 
-[Sports Reference](https://www.basketball-reference.com/contracts/players.html) 
+  
+[Sports Reference LLC](https://www.basketball-reference.com/contracts/players.html) "2020-21 NBA Player Contracts" from Basketball-Reference.com - Basketball Statistics and History https://www.basketball-reference.com/ (4/22/2021)
 
 [Kaggle: NBA Player Stats: Interactive Visualization](https://www.kaggle.com/atavangar/nba-player-stats-interactive-visualization/data)
 
