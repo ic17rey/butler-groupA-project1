@@ -30,17 +30,18 @@ Examine the height of NBA players to determine if height impacts performance or 
 Players:  
 * What is the average height of an NBA player?
 * Does height impact performance (ppg, blocks, rebounds or assists per game)?  
-* Do taller players score more often?
-* Do taller players make more blocks? (expecting strong correlation)
-* Do taller players make more steals? (expecting strong correlation)
-* Do taller players have more or less assists per game than shorter players? (negative correlation?)  
+  * Do taller players score more often?
+  * Do taller players make more blocks? (expecting strong correlation)
+  * Do taller players make more rebounds? (expecting strong correlation)
+  * Do taller players have more or less assists per game than shorter players? (negative correlation?)  
 * Does height impact salary? 
-* Do taller or shorter players make more money?  
+  * Do taller or shorter players make more money?  
 
+##### Research Questions that were not pursued
 Teams:
 * What teams have the highest average player height and what teams have the lowest?
-* Does height play a part in W/L percentage?
- 
+* Does height have an impact on W/L percentage?
+
 ### Datasets/Resources to be used  
 * [Kaggle:  NBA Players, Justinas Cirtautas](https://www.kaggle.com/justinas/nba-players-data)  
 * [Sports Reference LLC: Basketball-Reference.com "2020-21 NBA Player Contracts" (4/22/2021)](https://www.basketball-reference.com/contracts/players.html) 
@@ -72,4 +73,3 @@ Teams:
  
 #### Prepare a summary of observations
 #### Prepare for the presentation
-
