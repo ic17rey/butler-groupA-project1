@@ -12,6 +12,7 @@ Examine the height of NBA players to determine if height impacts performance or 
 * other personal info like college
 * points per game
 * blocks per game
+  * not able to include this stat in analysis 
 * rebounds per game
 * assists per game
 * salary
@@ -19,6 +20,7 @@ Examine the height of NBA players to determine if height impacts performance or 
 ##### Analyze data looking for the impact of height on performance or salary
 * height v. ppg
 * height v. blocks per game
+  * not able to include this stat in analysis  
 * height v. rebounds per game
 * height v. assists per game
 * height v. salary  
@@ -31,11 +33,20 @@ Players:
 * What is the average height of an NBA player?
 * Does height impact performance (ppg, blocks, rebounds or assists per game)?  
   * Do taller players score more often?
-  * Do taller players make more blocks? (expecting strong correlation)
-  * Do taller players make more rebounds? (expecting strong correlation)
-  * Do taller players have more or less assists per game than shorter players? (negative correlation?)  
+  * Do taller players make more blocks? 
+    * expecting strong correlation
+    * not able to include this stat in analysis
+  * Do taller players make more rebounds?
+    * expecting strong positive correlation
+  * Do taller players have more or less assists per game than shorter players?
+    * potential for negative correlation     
 * Does height impact salary? 
-  * Do taller or shorter players make more money?  
+  * Do taller or shorter players make more money?
+  * Is there any correlation?
+* Which stats impact salary?
+  * How strongly are points and salary correlated?
+  * Is there correlation between rebounds and salary?
+  * Is there correlation between assists and salary?   
 
 ##### Research Questions that were not pursued
 Teams:
@@ -61,15 +72,15 @@ Teams:
 - [x] Make any updates needed for formatting
 - [x] Put the data into a dataframe
 - [x] Load the dataframe to csv to retrieve for notebook 2
-- [ ] Determine best plots to use
+- [x] Determine best plots to use
 
 
 #### Jupyter Notebook 2: Data Analysis
-- [ ] Using the dataframe created, create the plots needed to help analyze the data
-- [ ] Perform calcs as needed for averages
-- [ ] Add linear regression models to plots and look at relationships
-- [ ] Look at correlation and p-values
-- [ ] Use this info to make observations about the research questions 
+- [x] Using the dataframes created, create the plots needed to help analyze the data
+- [x] Perform calcs as needed for averages or binning
+- [x] Add linear regression models to plots and look at relationships
+- [x] Look at correlation and p-values
+- [x] Use this info to make observations about the research questions 
  
 #### Prepare a summary of observations
 #### Prepare for the presentation
