@@ -82,7 +82,8 @@ Teams:
 - [x] Look at correlation and p-values
 - [x] Use this info to make observations about the research questions 
  
-#### Jupyter Notebook 3: user input opportunity
+#### Jupyter Notebook 2 also includes user input opportunity
+* To see plots in Jupyter Notebook 2 a user input must be entered, even if it is only to hit enter in the user input box
 
 #### Prepare a summary of observations
 #### Prepare for the presentation  
