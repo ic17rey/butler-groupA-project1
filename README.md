@@ -82,5 +82,8 @@ Teams:
 - [x] Look at correlation and p-values
 - [x] Use this info to make observations about the research questions 
  
+#### Jupyter Notebook 3: user input opportunity
+
 #### Prepare a summary of observations
-#### Prepare for the presentation
+#### Prepare for the presentation  
+Presentation of PowerPoint slides
