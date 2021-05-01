@@ -1,0 +1,1557 @@
+,season,player_name,height (in),pts,reb,ast,college,country,team
+0,2016-17,AJ Hammons,84.0,2.2,1.6,0.2,Purdue,USA,DAL
+1,2017-18,Aaron Brooks,72.0,2.3,0.5,0.6,Oregon,USA,MIN
+2,2016-17,Aaron Brooks,72.0,5.0,1.1,1.9,Oregon,USA,IND
+3,2018-19,Aaron Gordon,81.0,16.0,7.4,3.7,Arizona,USA,ORL
+4,2016-17,Aaron Gordon,81.0,12.7,5.1,1.9,Arizona,USA,ORL
+5,2017-18,Aaron Gordon,81.0,17.6,7.9,2.3,Arizona,USA,ORL
+6,2016-17,Aaron Harrison,78.0,0.2,0.6,0.6,Kentucky,USA,CHA
+7,2017-18,Aaron Harrison,78.0,6.7,2.7,1.2,Kentucky,USA,DAL
+8,2018-19,Aaron Holiday,73.0,5.9,1.3,1.7,UCLA,USA,IND
+9,2017-18,Aaron Jackson,75.0,8.0,3.0,1.0,None,USA,HOU
+10,2017-18,Abdel Nader,78.0,3.0,1.5,0.5,Iowa State,Egypt,BOS
+11,2018-19,Abdel Nader,78.0,4.0,1.9,0.3,Iowa State,Egypt,OKC
+12,2017-18,Adreian Payne,82.0,4.2,1.8,0.0,Michigan State,USA,ORL
+13,2016-17,Adreian Payne,82.0,3.5,1.8,0.4,Michigan State,USA,MIN
+14,2016-17,Al Horford,82.0,14.0,6.8,5.0,Florida,Dominican Republic,BOS
+15,2018-19,Al Horford,82.0,13.6,6.7,4.2,Florida,Dominican Republic,BOS
+16,2017-18,Al Horford,82.0,12.9,7.4,4.7,Florida,Dominican Republic,BOS
+17,2017-18,Al Jefferson,82.0,7.0,4.0,0.8,None,USA,IND
+18,2016-17,Al Jefferson,82.0,8.1,4.2,0.9,None,USA,IND
+19,2017-18,Al-Farouq Aminu,81.0,9.3,7.6,1.2,Wake Forest,USA,POR
+20,2016-17,Al-Farouq Aminu,81.0,8.7,7.4,1.6,Wake Forest,USA,POR
+21,2018-19,Al-Farouq Aminu,81.0,9.4,7.5,1.3,Wake Forest,USA,POR
+22,2016-17,Alan Anderson,78.0,2.9,0.8,0.4,Michigan State,USA,LAC
+23,2018-19,Alan Williams,80.0,3.6,3.8,0.6,Cal-Santa Barbara,USA,BKN
+24,2017-18,Alan Williams,80.0,4.0,4.4,1.6,Cal-Santa Barbara,USA,PHX
+25,2016-17,Alan Williams,80.0,7.4,6.2,0.5,California-Santa Barbara,USA,PHX
+26,2018-19,Alec Burks,78.0,8.8,3.7,2.0,Colorado,USA,SAC
+27,2017-18,Alec Burks,78.0,7.7,3.0,1.0,Colorado,USA,UTA
+28,2016-17,Alec Burks,78.0,6.7,2.9,0.7,Colorado,USA,UTA
+29,2017-18,Alec Peters,81.0,4.1,1.9,0.6,Valparaiso,USA,PHX
+30,2018-19,Alex Abrines,78.0,5.3,1.5,0.6,None,Spain,OKC
+31,2017-18,Alex Abrines,78.0,4.7,1.5,0.4,None,Spain,OKC
+32,2016-17,Alex Abrines,78.0,6.0,1.3,0.6,None,Spain,OKC
+33,2018-19,Alex Caruso,77.0,9.2,2.7,3.1,Texas A&M,USA,LAL
+34,2017-18,Alex Caruso,77.0,3.6,1.8,2.0,Texas A&M,USA,LAL
+35,2018-19,Alex Len,85.0,11.1,5.5,1.1,Maryland,Ukraine,ATL
+36,2017-18,Alex Len,85.0,8.5,7.5,1.2,Maryland,Ukraine,PHX
+37,2016-17,Alex Len,85.0,8.0,6.6,0.6,Maryland,Ukraine,PHX
+38,2018-19,Alex Poythress,81.0,5.1,3.6,0.8,Kentucky,USA,ATL
+39,2017-18,Alex Poythress,81.0,1.0,0.7,0.1,Kentucky,USA,IND
+40,2016-17,Alex Poythress,79.0,10.7,4.8,0.8,Kentucky,USA,PHI
+41,2016-17,Alexis Ajinca,86.0,5.3,4.5,0.3,None,France,NOP
+42,2017-18,Alfonzo McKinnie,80.0,1.5,0.5,0.1,None,USA,TOR
+43,2018-19,Alfonzo McKinnie,80.0,4.7,3.4,0.4,None,USA,GSW
+44,2018-19,Alize Johnson,81.0,0.9,1.4,0.1,Missouri State,USA,IND
+45,2016-17,Allen Crabbe,78.0,10.7,2.9,1.2,California,USA,POR
+46,2017-18,Allen Crabbe,78.0,13.2,4.3,1.6,California,USA,BKN
+47,2018-19,Allen Crabbe,78.0,9.6,3.4,1.1,California,USA,BKN
+48,2018-19,Allonzo Trier,77.0,10.9,3.1,1.9,Arizona,USA,NYK
+49,2016-17,Alonzo Gee,78.0,0.8,1.2,0.5,Alabama,USA,DEN
+50,2018-19,Amile Jefferson,81.0,2.3,1.8,0.3,Duke,USA,ORL
+51,2016-17,Amir Johnson,81.0,6.5,4.6,1.8,None,USA,BOS
+52,2018-19,Amir Johnson,81.0,3.9,2.9,1.2,None,USA,PHI
+53,2017-18,Amir Johnson,81.0,4.6,4.5,1.6,None,USA,PHI
+54,2016-17,Anderson Varejao,83.0,1.3,1.9,0.7,None,Brazil,GSW
+55,2018-19,Andre Drummond,83.0,17.3,15.6,1.4,Connecticut,USA,DET
+56,2016-17,Andre Drummond,83.0,13.6,13.8,1.1,Connecticut,USA,DET
+57,2017-18,Andre Drummond,83.0,15.0,16.0,3.0,Connecticut,USA,DET
+58,2017-18,Andre Iguodala,78.0,6.0,3.8,3.3,Arizona,USA,GSW
+59,2016-17,Andre Iguodala,78.0,7.6,4.0,3.4,Arizona,USA,GSW
+60,2018-19,Andre Iguodala,78.0,5.7,3.7,3.2,Arizona,USA,GSW
+61,2018-19,Andre Ingram,75.0,0.0,0.5,0.0,American University,USA,LAL
+62,2017-18,Andre Ingram,75.0,12.0,3.0,3.5,American University,USA,LAL
+63,2016-17,Andre Roberson,79.0,6.6,5.1,1.0,Colorado,USA,OKC
+64,2017-18,Andre Roberson,79.0,5.0,4.7,1.2,Colorado,USA,OKC
+65,2018-19,Andrew Bogut,84.0,3.5,5.0,1.0,Utah,Australia,GSW
+66,2017-18,Andrew Bogut,84.0,1.5,3.3,0.6,Utah,Australia,LAL
+67,2016-17,Andrew Bogut,84.0,2.9,8.1,1.8,Utah,Australia,CLE
+68,2018-19,Andrew Harrison,78.0,3.2,1.2,1.4,Kentucky,USA,NOP
+69,2016-17,Andrew Harrison,78.0,5.9,1.9,2.8,Kentucky,USA,MEM
+70,2017-18,Andrew Harrison,78.0,9.5,2.3,3.2,Kentucky,USA,MEM
+71,2016-17,Andrew Nicholson,81.0,2.6,1.6,0.3,St. Bonaventure,Canada,BKN
+72,2017-18,Andrew White III,79.0,4.6,2.3,0.4,Syracuse,USA,ATL
+73,2018-19,Andrew Wiggins,80.0,18.1,4.8,2.5,Kansas,Canada,MIN
+74,2017-18,Andrew Wiggins,80.0,17.7,4.4,2.0,Kansas,Canada,MIN
+75,2016-17,Andrew Wiggins,80.0,23.6,4.0,2.3,Kansas,Canada,MIN
+76,2018-19,Anfernee Simons,76.0,3.8,0.7,0.7,None,USA,POR
+77,2018-19,Angel Delgado,82.0,1.5,2.0,0.0,None,Dominican Republic,LAC
+78,2018-19,Ante Zizic,83.0,7.8,5.4,0.9,None,Croatia,CLE
+79,2017-18,Ante Zizic,83.0,3.7,1.9,0.2,None,Croatia,CLE
+80,2016-17,Anthony Bennett,80.0,5.0,3.4,0.5,Nevada-Las Vegas,Canada,BKN
+81,2017-18,Anthony Brown,79.0,3.0,0.0,1.0,Stanford,USA,MIN
+82,2016-17,Anthony Brown,79.0,3.9,3.0,0.7,Stanford,USA,ORL
+83,2018-19,Anthony Davis,82.0,25.9,12.0,3.9,Kentucky,USA,NOP
+84,2016-17,Anthony Davis,83.0,28.0,11.8,2.1,Kentucky,USA,NOP
+85,2017-18,Anthony Davis,82.0,28.1,11.1,2.3,Kentucky,USA,NOP
+86,2016-17,Anthony Morrow,77.0,5.5,0.6,0.5,Georgia Tech,USA,CHI
+87,2017-18,Anthony Tolliver,80.0,8.9,3.1,1.1,Creighton,USA,DET
+88,2018-19,Anthony Tolliver,80.0,5.0,2.7,0.7,Creighton,USA,MIN
+89,2016-17,Anthony Tolliver,80.0,7.1,3.6,1.2,Creighton,USA,SAC
+90,2018-19,Antonio Blakeney,76.0,7.3,1.9,0.7,Louisiana State,USA,CHI
+91,2017-18,Antonio Blakeney,76.0,7.9,1.7,1.1,Louisiana State,USA,CHI
+92,2017-18,Antonius Cleveland,78.0,1.4,0.8,0.1,S.E. Missouri,USA,ATL
+93,2016-17,Archie Goodwin,77.0,7.3,1.9,1.6,Kentucky,USA,BKN
+94,2016-17,Arinze Onuaku,81.0,0.5,0.8,0.3,Syracuse,USA,ORL
+95,2018-19,Aron Baynes,82.0,5.6,4.7,1.1,Washington State,Australia,BOS
+96,2017-18,Aron Baynes,82.0,6.0,5.4,1.1,Washington State,Australia,BOS
+97,2016-17,Aron Baynes,82.0,4.9,4.4,0.4,Washington State,Australia,DET
+98,2017-18,Arron Afflalo,77.0,3.4,1.2,0.6,UCLA,USA,ORL
+99,2016-17,Arron Afflalo,77.0,8.4,2.0,1.3,UCLA,USA,SAC
+100,2018-19,Austin Rivers,76.0,8.1,2.1,2.2,Duke,USA,HOU
+101,2017-18,Austin Rivers,76.0,15.1,2.4,4.0,Duke,USA,LAC
+102,2016-17,Austin Rivers,76.0,12.0,2.2,2.8,Duke,USA,LAC
+103,2017-18,Avery Bradley,74.0,14.3,2.5,2.0,Texas,USA,LAC
+104,2018-19,Avery Bradley,74.0,9.9,2.8,2.4,Texas,USA,MEM
+105,2016-17,Avery Bradley,74.0,16.3,6.1,2.2,Texas,USA,BOS
+106,2016-17,Axel Toupane,79.0,2.8,0.3,0.0,None,France,NOP
+107,2018-19,BJ Johnson,79.0,3.3,1.1,0.0,None,USA,SAC
+108,2018-19,Bam Adebayo,82.0,8.9,7.3,2.2,Kentucky,USA,MIA
+109,2017-18,Bam Adebayo,82.0,6.9,5.5,1.5,Kentucky,USA,MIA
+110,2016-17,Ben Bentil,81.0,0.0,0.7,0.0,Providence,Ghana,DAL
+111,2018-19,Ben McLemore,77.0,3.9,0.9,0.2,Kansas,USA,SAC
+112,2017-18,Ben McLemore,77.0,7.5,2.5,0.9,Kansas,USA,MEM
+113,2016-17,Ben McLemore,77.0,8.1,2.1,0.8,Kansas,USA,SAC
+114,2017-18,Ben Moore,80.0,0.0,0.5,0.5,Southern Methodist,USA,IND
+115,2018-19,Ben Simmons,82.0,16.9,8.8,7.7,Louisiana State,Australia,PHI
+116,2017-18,Ben Simmons,82.0,15.8,8.1,8.2,Louisiana State,Australia,PHI
+117,2016-17,Beno Udrih,75.0,5.8,1.5,3.4,None,Slovenia,DET
+118,2018-19,Billy Garrett,78.0,6.5,0.8,1.8,DePaul,USA,NYK
+119,2016-17,Bismack Biyombo,81.0,6.0,7.0,0.9,None,Democratic Republic of the Congo,ORL
+120,2018-19,Bismack Biyombo,81.0,4.4,4.6,0.6,None,Democratic Republic of the Congo,CHA
+121,2017-18,Bismack Biyombo,81.0,5.7,5.7,0.8,None,Democratic Republic of the Congo,ORL
+122,2016-17,Blake Griffin,82.0,21.6,8.1,4.9,Oklahoma,USA,LAC
+123,2018-19,Blake Griffin,82.0,24.5,7.5,5.4,Oklahoma,USA,DET
+124,2017-18,Blake Griffin,82.0,21.4,7.4,5.8,Oklahoma,USA,DET
+125,2017-18,Boban Marjanovic,87.0,6.0,3.7,0.6,None,Serbia,LAC
+126,2016-17,Boban Marjanovic,87.0,5.5,3.7,0.3,None,Serbia,DET
+127,2018-19,Boban Marjanovic,87.0,7.3,4.6,0.9,None,Serbia,PHI
+128,2016-17,Bobby Brown,74.0,2.5,0.2,0.6,Cal State-Fullerton,USA,HOU
+129,2017-18,Bobby Brown,74.0,2.5,0.4,0.6,Cal State-Fullerton,USA,HOU
+130,2016-17,Bobby Portis,83.0,6.8,4.6,0.5,Arkansas,USA,CHI
+131,2017-18,Bobby Portis,83.0,13.2,6.8,1.7,Arkansas,USA,CHI
+132,2018-19,Bobby Portis,83.0,14.2,8.1,1.4,Arkansas,USA,WAS
+133,2017-18,Bogdan Bogdanovic,78.0,11.8,2.9,3.3,None,Serbia,SAC
+134,2018-19,Bogdan Bogdanovic,78.0,14.1,3.5,3.8,None,Serbia,SAC
+135,2016-17,Bojan Bogdanovic,80.0,13.7,3.4,1.4,None,Croatia,WAS
+136,2018-19,Bojan Bogdanovic,80.0,18.0,4.1,2.0,None,Croatia,IND
+137,2017-18,Bojan Bogdanovic,80.0,14.3,3.4,1.5,None,Croatia,IND
+138,2018-19,Bonzie Colson,78.0,4.9,3.8,0.4,Notre Dame,USA,MIL
+139,2016-17,Boris Diaw,80.0,4.6,2.2,2.3,None,France,UTA
+140,2018-19,Brad Wanamaker,76.0,3.9,1.1,1.6,Pittsburgh,USA,BOS
+141,2016-17,Bradley Beal,77.0,23.1,3.1,3.5,Florida,USA,WAS
+142,2017-18,Bradley Beal,77.0,22.6,4.4,4.5,Florida,USA,WAS
+143,2018-19,Bradley Beal,77.0,25.6,5.0,5.5,Florida,USA,WAS
+144,2016-17,Brandan Wright,82.0,6.8,2.8,0.5,North Carolina,USA,MEM
+145,2017-18,Brandan Wright,82.0,5.0,3.4,0.5,North Carolina,USA,MEM
+146,2016-17,Brandon Bass,80.0,5.6,2.5,0.4,Louisiana State,USA,LAC
+147,2018-19,Brandon Goodwin,74.0,1.4,0.2,0.9,None,USA,DEN
+148,2017-18,Brandon Ingram,81.0,16.1,5.3,3.9,Duke,USA,LAL
+149,2018-19,Brandon Ingram,81.0,18.3,5.1,3.0,Duke,USA,LAL
+150,2016-17,Brandon Ingram,81.0,9.4,4.0,2.1,Duke,USA,LAL
+151,2017-18,Brandon Jennings,73.0,5.2,2.2,3.1,None,USA,MIL
+152,2016-17,Brandon Jennings,73.0,7.1,2.4,4.9,None,USA,WAS
+153,2018-19,Brandon Knight,75.0,6.8,1.5,1.8,Kentucky,USA,CLE
+154,2016-17,Brandon Knight,75.0,11.0,2.2,2.4,Kentucky,USA,PHX
+155,2017-18,Brandon Paul,76.0,2.3,1.1,0.6,None,USA,SAS
+156,2016-17,Brandon Rush,78.0,4.2,2.1,1.0,Kansas,USA,MIN
+157,2018-19,Brandon Sampson,77.0,5.1,1.1,0.7,None,USA,CHI
+158,2016-17,Brian Roberts,73.0,3.5,1.0,1.3,Dayton,USA,CHA
+159,2017-18,Briante Weber,74.0,2.8,1.9,1.2,Virginia Commonwealth,USA,MEM
+160,2016-17,Briante Weber,74.0,3.1,1.3,1.1,Virginia Commonwealth,USA,CHA
+161,2016-17,Brice Johnson,82.0,1.3,1.0,0.3,North Carolina,USA,LAC
+162,2017-18,Brice Johnson,82.0,2.4,1.7,0.1,North Carolina,USA,LAC
+163,2016-17,Brook Lopez,84.0,20.5,5.4,2.3,Stanford,USA,BKN
+164,2017-18,Brook Lopez,84.0,13.0,4.0,1.7,Stanford,USA,LAL
+165,2018-19,Brook Lopez,84.0,12.5,4.9,1.2,Stanford,USA,MIL
+166,2018-19,Bruce Brown,77.0,4.3,2.5,1.2,Miami,USA,DET
+167,2017-18,Bruno Caboclo,81.0,2.2,1.8,0.3,None,Brazil,SAC
+168,2016-17,Bruno Caboclo,81.0,1.6,1.1,0.4,None,Brazil,TOR
+169,2018-19,Bruno Caboclo,81.0,8.3,4.6,1.5,None,Brazil,MEM
+170,2018-19,Bryn Forbes,75.0,11.8,2.9,2.1,Michigan State,USA,SAS
+171,2016-17,Bryn Forbes,75.0,2.6,0.6,0.6,Michigan State,USA,SAS
+172,2017-18,Bryn Forbes,75.0,6.9,1.4,1.0,Michigan State,USA,SAS
+173,2016-17,Buddy Hield,76.0,10.6,3.3,1.5,Oklahoma,Bahamas,SAC
+174,2017-18,Buddy Hield,76.0,13.5,3.8,1.9,Oklahoma,Bahamas,SAC
+175,2018-19,Buddy Hield,76.0,20.7,5.0,2.5,Oklahoma,Bahamas,SAC
+176,2016-17,C.J. Watson,74.0,4.5,1.4,1.8,Tennessee,USA,ORL
+177,2017-18,C.J. Williams,77.0,5.5,1.5,1.1,North Carolina State,USA,LAC
+178,2018-19,C.J. Williams,77.0,2.6,0.5,0.8,North Carolina State,USA,MIN
+179,2017-18,CJ McCollum,75.0,21.4,4.0,3.4,Lehigh,USA,POR
+180,2016-17,CJ McCollum,75.0,23.0,3.6,3.6,Lehigh,USA,POR
+181,2018-19,CJ McCollum,75.0,21.0,4.0,3.0,Lehigh,USA,POR
+182,2017-18,CJ Miles,78.0,10.0,2.2,0.8,None,USA,TOR
+183,2016-17,CJ Miles,78.0,10.7,3.0,0.6,None,USA,IND
+184,2018-19,CJ Miles,78.0,6.4,1.8,0.7,None,USA,MEM
+185,2016-17,CJ Wilcox,77.0,1.0,0.5,0.5,Washington,USA,ORL
+186,2018-19,Caleb Swanigan,81.0,2.0,3.0,0.5,Purdue,USA,SAC
+187,2017-18,Caleb Swanigan,80.0,2.3,2.0,0.5,Purdue,USA,POR
+188,2018-19,Cameron Payne,75.0,6.3,1.8,2.7,Murray State,USA,CLE
+189,2017-18,Cameron Payne,75.0,8.8,2.8,4.5,Murray State,USA,CHI
+190,2016-17,Cameron Payne,75.0,5.2,1.5,1.8,Murray State,USA,CHI
+191,2018-19,Cameron Reynolds,80.0,5.0,1.6,0.7,None,USA,MIN
+192,2017-18,Caris LeVert,79.0,12.1,3.7,4.2,Michigan,USA,BKN
+193,2018-19,Caris LeVert,79.0,13.7,3.8,3.9,Michigan,USA,BKN
+194,2016-17,Caris LeVert,79.0,8.2,3.3,1.9,Michigan,USA,BKN
+195,2018-19,Carmelo Anthony,80.0,13.4,5.4,0.5,Syracuse,USA,HOU
+196,2016-17,Carmelo Anthony,80.0,22.4,5.9,2.9,Syracuse,USA,NYK
+197,2017-18,Carmelo Anthony,80.0,16.2,5.8,1.3,Syracuse,USA,OKC
+198,2018-19,Cedi Osman,80.0,13.0,4.7,2.6,None,Turkey,CLE
+199,2017-18,Cedi Osman,80.0,3.9,2.0,0.7,None,Turkey,CLE
+200,2018-19,Chandler Hutchison,79.0,5.2,4.2,0.8,Boise State,USA,CHI
+201,2018-19,Chandler Parsons,82.0,7.5,2.8,1.7,Florida,USA,MEM
+202,2016-17,Chandler Parsons,82.0,6.2,2.5,1.6,Florida,USA,MEM
+203,2017-18,Chandler Parsons,82.0,7.9,2.5,1.9,Florida,USA,MEM
+204,2017-18,Channing Frye,83.0,5.0,2.5,0.7,Arizona,USA,LAL
+205,2018-19,Channing Frye,84.0,3.6,1.4,0.6,Arizona,USA,CLE
+206,2016-17,Channing Frye,83.0,9.1,3.9,0.6,Arizona,USA,CLE
+207,2017-18,Charles Cooke,77.0,0.5,0.2,0.1,University of Dayton,USA,NOP
+208,2018-19,Chasson Randle,74.0,5.5,1.1,2.0,Stanford,USA,WAS
+209,2016-17,Chasson Randle,74.0,5.3,1.2,1.3,Stanford,USA,NYK
+210,2017-18,Cheick Diallo,81.0,4.9,4.1,0.4,Kansas,Mali,NOP
+211,2018-19,Cheick Diallo,81.0,6.0,5.2,0.5,Kansas,Mali,NOP
+212,2016-17,Cheick Diallo,81.0,5.1,4.3,0.2,Kansas,Mali,NOP
+213,2018-19,Chimezie Metu,82.0,1.8,1.2,0.4,USC,USA,SAS
+214,2017-18,Chinanu Onuaku,82.0,4.0,4.0,1.0,Louisville,USA,HOU
+215,2016-17,Chinanu Onuaku,82.0,2.8,2.0,0.6,Louisville,USA,HOU
+216,2016-17,Chris Andersen,82.0,2.3,2.6,0.4,Blinn,USA,CLE
+217,2017-18,Chris Boucher,82.0,0.0,1.0,0.0,Oregon,Canada,GSW
+218,2018-19,Chris Boucher,82.0,3.3,2.0,0.1,Oregon,Canada,TOR
+219,2018-19,Chris Chiozza,72.0,0.9,0.6,0.6,None,USA,HOU
+220,2017-18,Chris McCullough,81.0,2.4,1.3,0.2,Syracuse,USA,WAS
+221,2016-17,Chris McCullough,81.0,2.3,1.2,0.1,Syracuse,USA,WAS
+222,2016-17,Chris Paul,72.0,18.1,5.0,9.2,Wake Forest,USA,LAC
+223,2017-18,Chris Paul,72.0,18.6,5.4,7.9,Wake Forest,USA,HOU
+224,2018-19,Chris Paul,72.0,15.6,4.6,8.2,Wake Forest,USA,HOU
+225,2016-17,Christian Wood,83.0,2.7,2.2,0.2,Nevada-Las Vegas,USA,CHA
+226,2018-19,Christian Wood,82.0,8.2,4.0,0.4,UNLV,USA,NOP
+227,2016-17,Clint Capela,82.0,12.6,8.1,1.0,None,Switzerland,HOU
+228,2017-18,Clint Capela,82.0,13.9,10.8,0.9,None,Switzerland,HOU
+229,2018-19,Clint Capela,82.0,16.6,12.7,1.4,None,Switzerland,HOU
+230,2017-18,Cody Zeller,84.0,7.1,5.4,0.9,Indiana,USA,CHA
+231,2018-19,Cody Zeller,84.0,10.1,6.8,2.1,Indiana,USA,CHA
+232,2016-17,Cody Zeller,84.0,10.3,6.5,1.6,Indiana,USA,CHA
+233,2017-18,Cole Aldrich,83.0,0.6,0.7,0.1,Kansas,USA,MIN
+234,2016-17,Cole Aldrich,83.0,1.7,2.5,0.4,Kansas,USA,MIN
+235,2018-19,Collin Sexton,74.0,16.7,2.9,3.0,Alabama,USA,CLE
+236,2018-19,Corey Brewer,81.0,4.9,2.5,1.3,Florida,USA,SAC
+237,2017-18,Corey Brewer,81.0,5.3,2.1,0.9,Florida,USA,OKC
+238,2016-17,Corey Brewer,81.0,4.5,2.0,1.2,Florida,USA,LAL
+239,2016-17,Cory Joseph,75.0,9.3,2.9,3.3,Texas,Canada,TOR
+240,2017-18,Cory Joseph,75.0,7.9,3.2,3.2,Texas,Canada,IND
+241,2018-19,Cory Joseph,75.0,6.5,3.4,3.9,Texas,Canada,IND
+242,2017-18,Courtney Lee,77.0,12.0,2.9,2.4,Western Kentucky,USA,NYK
+243,2018-19,Courtney Lee,77.0,4.0,1.6,1.1,Western Kentucky,USA,DAL
+244,2016-17,Courtney Lee,77.0,10.8,3.4,2.3,Western Kentucky,USA,NYK
+245,2016-17,Cristiano Felicio,81.0,4.8,4.7,0.6,None,Brazil,CHI
+246,2017-18,Cristiano Felicio,81.0,5.6,4.2,1.0,None,Brazil,CHI
+247,2018-19,Cristiano Felicio,82.0,4.0,3.6,0.6,None,Brazil,CHI
+248,2016-17,D'Angelo Russell,77.0,15.6,3.5,4.8,Ohio State,USA,LAL
+249,2017-18,D'Angelo Russell,77.0,15.5,3.9,5.2,Ohio State,USA,BKN
+250,2018-19,D'Angelo Russell,77.0,21.1,3.9,7.0,Ohio State,USA,BKN
+251,2016-17,D.J. Augustin,72.0,7.9,1.5,2.7,Texas,USA,ORL
+252,2018-19,D.J. Augustin,72.0,11.7,2.5,5.3,Texas,USA,ORL
+253,2017-18,D.J. Augustin,72.0,10.2,2.1,3.8,Texas,USA,ORL
+254,2017-18,D.J. Wilson,82.0,1.0,0.5,0.1,Michigan,USA,MIL
+255,2018-19,D.J. Wilson,82.0,5.8,4.6,1.1,Michigan,USA,MIL
+256,2018-19,DJ Stephens,77.0,2.0,0.0,0.0,Memphis,USA,MEM
+257,2016-17,Dahntay Jones,78.0,9.0,2.0,1.0,Duke,USA,CLE
+258,2018-19,Dairis Bertans,76.0,2.8,0.8,0.8,None,Latvia,NOP
+259,2017-18,Dakari Johnson,84.0,1.8,1.1,0.3,Kentucky,USA,OKC
+260,2017-18,Damian Jones,84.0,1.7,0.9,0.1,Vanderbilt,USA,GSW
+261,2016-17,Damian Jones,84.0,1.9,2.3,0.0,Vanderbilt,USA,GSW
+262,2018-19,Damian Jones,84.0,5.4,3.1,1.2,Vanderbilt,USA,GSW
+263,2017-18,Damian Lillard,75.0,26.9,4.5,6.6,Weber State,USA,POR
+264,2016-17,Damian Lillard,75.0,27.0,4.9,5.9,Weber State,USA,POR
+265,2018-19,Damian Lillard,75.0,25.8,4.6,6.9,Weber State,USA,POR
+266,2017-18,Damien Wilkins,78.0,1.7,0.8,0.5,Georgia,USA,IND
+267,2017-18,Damion Lee,78.0,10.7,4.7,1.9,Louisville,USA,ATL
+268,2018-19,Damion Lee,78.0,4.9,2.0,0.4,Louisville,USA,GSW
+269,2016-17,Damjan Rudez,82.0,1.8,0.6,0.4,None,Croatia,ORL
+270,2018-19,Damyean Dotson,78.0,10.7,3.6,1.8,Houston,USA,NYK
+271,2017-18,Damyean Dotson,77.0,4.1,1.9,0.7,Houston,USA,NYK
+272,2017-18,Daniel Hamilton,79.0,2.0,0.8,1.3,Connecticut,USA,OKC
+273,2018-19,Daniel Hamilton,79.0,3.0,2.5,1.2,Connecticut,USA,ATL
+274,2016-17,Daniel Ochefu,83.0,1.3,1.2,0.2,Villanova,USA,WAS
+275,2018-19,Daniel Theis,80.0,5.7,3.4,1.0,None,Germany,BOS
+276,2017-18,Daniel Theis,81.0,5.3,4.3,0.9,None,Germany,BOS
+277,2018-19,Danilo Gallinari,82.0,19.8,6.1,2.6,None,Italy,LAC
+278,2017-18,Danilo Gallinari,82.0,15.3,4.8,2.0,None,Italy,LAC
+279,2016-17,Danilo Gallinari,82.0,18.2,5.2,2.1,None,Italy,DEN
+280,2018-19,Danny Green,78.0,10.3,4.0,1.6,North Carolina,USA,TOR
+281,2017-18,Danny Green,78.0,8.6,3.6,1.6,North Carolina,USA,SAS
+282,2016-17,Danny Green,78.0,7.3,3.3,1.8,North Carolina,USA,SAS
+283,2018-19,Dante Cunningham,80.0,3.0,2.9,0.8,Villanova,USA,SAS
+284,2017-18,Dante Cunningham,80.0,5.7,4.1,0.7,Villanova,USA,BKN
+285,2016-17,Dante Cunningham,80.0,6.6,4.2,0.6,Villanova,USA,NOP
+286,2017-18,Dante Exum,78.0,8.1,1.9,3.1,None,Australia,UTA
+287,2018-19,Dante Exum,78.0,6.9,1.6,2.6,None,Australia,UTA
+288,2016-17,Dante Exum,78.0,6.2,2.0,1.7,None,Australia,UTA
+289,2016-17,Danuel House,79.0,0.0,1.0,0.0,Texas A&M,USA,WAS
+290,2018-19,Danuel House Jr.,79.0,9.4,3.6,1.0,Texas A&M,USA,HOU
+291,2017-18,Danuel House Jr.,79.0,6.6,3.3,1.1,Texas A&M,USA,PHX
+292,2017-18,Dario Saric,82.0,14.6,6.7,2.6,None,Croatia,PHI
+293,2018-19,Dario Saric,82.0,10.6,5.6,1.6,None,Croatia,MIN
+294,2016-17,Dario Saric,82.0,12.8,6.3,2.2,None,Croatia,PHI
+295,2018-19,Darius Miller,80.0,8.2,1.9,2.1,Kentucky,USA,NOP
+296,2017-18,Darius Miller,80.0,7.8,2.0,1.4,Kentucky,USA,NOP
+297,2016-17,Darrell Arthur,81.0,6.4,2.7,1.0,Kansas,USA,DEN
+298,2017-18,Darrell Arthur,81.0,2.8,0.8,0.5,Kansas,USA,DEN
+299,2017-18,Darren Collison,74.0,12.4,2.6,5.3,UCLA,USA,IND
+300,2018-19,Darren Collison,72.0,11.2,3.1,6.0,UCLA,USA,IND
+301,2016-17,Darren Collison,72.0,13.2,2.2,4.6,UCLA,USA,SAC
+302,2017-18,Darrun Hilliard,78.0,1.1,0.5,0.8,Villanova,USA,SAS
+303,2016-17,Darrun Hilliard,78.0,3.3,0.8,0.8,Villanova,USA,DET
+304,2018-19,Daryl Macon,75.0,3.6,1.5,0.9,Arkansas,USA,DAL
+305,2016-17,David Lee,81.0,7.3,5.6,1.6,Florida,USA,SAS
+306,2016-17,David Nwaba,76.0,6.0,3.2,0.7,None,USA,LAL
+307,2018-19,David Nwaba,76.0,6.5,3.2,1.1,None,USA,CLE
+308,2017-18,David Nwaba,76.0,7.9,4.7,1.5,None,USA,CHI
+309,2017-18,David Stockton,71.0,3.3,0.0,0.0,Gonzaga,USA,UTA
+310,2016-17,David West,81.0,4.6,3.0,2.2,Xavier,USA,GSW
+311,2017-18,David West,81.0,6.8,3.3,1.9,Xavier,USA,GSW
+312,2016-17,Davis Bertans,82.0,4.5,1.5,0.7,None,Latvia,SAS
+313,2018-19,Davis Bertans,82.0,8.0,3.5,1.3,None,Latvia,SAS
+314,2017-18,Davis Bertans,82.0,5.9,2.0,1.0,None,Latvia,SAS
+315,2017-18,Davon Reed,78.0,3.0,1.9,0.6,Miami,USA,PHX
+316,2018-19,Davon Reed,77.0,1.2,0.6,0.3,Miami,USA,IND
+317,2017-18,De'Aaron Fox,75.0,11.6,2.8,4.4,Kentucky,USA,SAC
+318,2018-19,De'Aaron Fox,75.0,17.3,3.8,7.3,Kentucky,USA,SAC
+319,2018-19,De'Anthony Melton,76.0,5.0,2.7,3.2,USC,USA,PHX
+320,2017-18,DeAndre Jordan,83.0,12.0,15.2,1.5,Texas A&M,USA,LAC
+321,2018-19,DeAndre Jordan,83.0,11.0,13.1,2.3,Texas A&M,USA,NYK
+322,2016-17,DeAndre Jordan,83.0,12.7,13.8,1.2,Texas A&M,USA,LAC
+323,2017-18,DeAndre Liggins,78.0,1.7,1.3,0.8,Kentucky,USA,NOP
+324,2016-17,DeAndre Liggins,78.0,2.5,1.7,0.9,Kentucky,USA,DAL
+325,2018-19,DeAndre' Bembry,78.0,8.4,4.4,2.5,None,USA,ATL
+326,2016-17,DeAndre' Bembry,78.0,2.7,1.6,0.7,Saint Joseph's,USA,ATL
+327,2017-18,DeAndre' Bembry,78.0,5.2,2.8,1.9,None,USA,ATL
+328,2016-17,DeMar DeRozan,79.0,27.3,5.2,3.9,Southern California,USA,TOR
+329,2017-18,DeMar DeRozan,79.0,23.0,3.9,5.2,USC,USA,TOR
+330,2018-19,DeMar DeRozan,79.0,21.2,6.0,6.2,USC,USA,SAS
+331,2016-17,DeMarcus Cousins,83.0,27.0,11.0,4.6,Kentucky,USA,NOP
+332,2018-19,DeMarcus Cousins,83.0,16.3,8.2,3.6,Kentucky,USA,GSW
+333,2017-18,DeMarcus Cousins,83.0,25.2,12.9,5.4,Kentucky,USA,NOP
+334,2016-17,DeMarre Carroll,80.0,8.9,3.8,1.0,Missouri,USA,TOR
+335,2017-18,DeMarre Carroll,80.0,13.5,6.6,2.0,Missouri,USA,BKN
+336,2018-19,DeMarre Carroll,80.0,11.1,5.2,1.3,Missouri,USA,BKN
+337,2018-19,DeVaughn Akoon-Purcell,78.0,1.0,0.6,0.9,Illinois State,Trinidad and Tobago,DEN
+338,2018-19,Deandre Ayton,85.0,16.3,10.3,1.8,Arizona,Bahamas,PHX
+339,2016-17,Dejounte Murray,77.0,3.4,1.1,1.3,Washington,USA,SAS
+340,2017-18,Dejounte Murray,77.0,8.1,5.7,2.9,Washington,USA,SAS
+341,2016-17,Delon Wright,77.0,5.6,1.8,2.1,Utah,USA,TOR
+342,2017-18,Delon Wright,77.0,8.0,2.9,2.9,Utah,USA,TOR
+343,2018-19,Delon Wright,77.0,8.7,3.5,3.3,Utah,USA,MEM
+344,2018-19,Demetrius Jackson,73.0,3.7,0.5,0.8,Notre Dame,USA,PHI
+345,2017-18,Demetrius Jackson,73.0,1.1,0.8,0.6,Notre Dame,USA,PHI
+346,2016-17,Demetrius Jackson,73.0,2.0,0.8,0.6,Notre Dame,USA,BOS
+347,2018-19,Deng Adel,79.0,1.7,1.0,0.3,None,South Sudan,CLE
+348,2018-19,Dennis Schroder,73.0,15.5,3.6,4.1,None,Germany,OKC
+349,2016-17,Dennis Schroder,73.0,17.9,3.1,6.3,None,Germany,ATL
+350,2017-18,Dennis Schroder,73.0,19.4,3.1,6.2,None,Germany,ATL
+351,2017-18,Dennis Smith Jr.,75.0,15.2,3.8,5.2,North Carolina State,USA,DAL
+352,2018-19,Dennis Smith Jr.,75.0,13.6,2.9,4.8,North Carolina State,USA,NYK
+353,2017-18,Denzel Valentine,78.0,10.2,5.1,3.2,Michigan State,USA,CHI
+354,2016-17,Denzel Valentine,78.0,5.1,2.6,1.1,Michigan State,USA,CHI
+355,2018-19,Deonte Burton,77.0,2.6,0.9,0.3,Iowa State,USA,OKC
+356,2016-17,Deron Williams,75.0,11.0,2.3,5.6,Illinois,USA,CLE
+357,2018-19,Derrick Favors,82.0,11.8,7.4,1.2,Georgia Tech,USA,UTA
+358,2017-18,Derrick Favors,82.0,12.3,7.2,1.3,Georgia Tech,USA,UTA
+359,2016-17,Derrick Favors,82.0,9.5,6.1,1.1,Georgia Tech,USA,UTA
+360,2016-17,Derrick Jones Jr.,79.0,5.3,2.5,0.4,Nevada-Las Vegas,USA,PHX
+361,2017-18,Derrick Jones Jr.,79.0,3.1,1.9,0.5,UNLV,USA,MIA
+362,2018-19,Derrick Jones Jr.,79.0,7.0,4.0,0.6,UNLV,USA,MIA
+363,2018-19,Derrick Rose,75.0,18.0,2.7,4.3,Memphis,USA,MIN
+364,2016-17,Derrick Rose,75.0,18.0,3.8,4.4,Memphis,USA,NYK
+365,2017-18,Derrick Rose,75.0,8.4,1.4,1.5,Memphis,USA,MIN
+366,2017-18,Derrick Walton Jr.,73.0,1.8,1.0,1.0,Michigan,USA,MIA
+367,2017-18,Derrick White,76.0,3.2,1.5,0.5,Colorado,USA,SAS
+368,2018-19,Derrick White,76.0,9.9,3.7,3.9,Colorado,USA,SAS
+369,2016-17,Derrick Williams,80.0,6.1,2.6,0.6,Arizona,USA,CLE
+370,2017-18,Derrick Williams,80.0,1.0,0.5,0.0,Arizona,USA,LAL
+371,2016-17,Devin Booker,78.0,22.1,3.2,3.4,Kentucky,USA,PHX
+372,2018-19,Devin Booker,78.0,26.6,4.1,6.8,Kentucky,USA,PHX
+373,2017-18,Devin Booker,78.0,24.9,4.5,4.7,Kentucky,USA,PHX
+374,2017-18,Devin Harris,75.0,8.4,1.8,2.1,Wisconsin,USA,DEN
+375,2018-19,Devin Harris,75.0,6.3,1.6,1.8,Wisconsin,USA,DAL
+376,2016-17,Devin Harris,75.0,6.7,2.0,2.1,Wisconsin,USA,DAL
+377,2018-19,Devin Robinson,80.0,6.7,2.9,0.9,Florida,USA,WAS
+378,2017-18,Devin Robinson,80.0,2.0,5.0,0.0,Florida,USA,WAS
+379,2018-19,Devonte' Graham,74.0,4.7,1.4,2.6,Kansas,USA,CHA
+380,2016-17,Dewayne Dedmon,84.0,5.1,6.5,0.6,Southern California,USA,SAS
+381,2018-19,Dewayne Dedmon,84.0,10.8,7.5,1.4,USC,USA,ATL
+382,2017-18,Dewayne Dedmon,84.0,10.0,7.9,1.5,USC,USA,ATL
+383,2017-18,Deyonta Davis,83.0,5.8,4.0,0.6,Michigan State,USA,MEM
+384,2016-17,Deyonta Davis,82.0,1.6,1.7,0.1,Michigan State,USA,MEM
+385,2018-19,Deyonta Davis,83.0,4.0,4.0,0.6,Michigan State,USA,ATL
+386,2016-17,Diamond Stone,83.0,1.4,0.9,0.0,Maryland,USA,LAC
+387,2018-19,Dillon Brooks,78.0,7.5,1.7,0.9,Oregon,Canada,MEM
+388,2017-18,Dillon Brooks,78.0,11.0,3.1,1.6,Oregon,Canada,MEM
+389,2017-18,Dion Waiters,76.0,14.3,2.6,3.8,Syracuse,USA,MIA
+390,2018-19,Dion Waiters,76.0,12.0,2.6,2.8,Syracuse,USA,MIA
+391,2016-17,Dion Waiters,76.0,15.8,3.3,4.3,Syracuse,USA,MIA
+392,2018-19,Dirk Nowitzki,84.0,7.3,3.1,0.7,None,Germany,DAL
+393,2017-18,Dirk Nowitzki,84.0,12.0,5.7,1.6,None,Germany,DAL
+394,2016-17,Dirk Nowitzki,84.0,14.2,6.5,1.5,None,Germany,DAL
+395,2017-18,Domantas Sabonis,82.0,11.6,7.7,2.0,Gonzaga,Lithuania,IND
+396,2016-17,Domantas Sabonis,83.0,5.9,3.6,1.0,Gonzaga,Lithuania,OKC
+397,2018-19,Domantas Sabonis,83.0,14.1,9.3,2.9,Gonzaga,Lithuania,IND
+398,2018-19,Donatas Motiejunas,84.0,2.0,1.0,0.3,None,Lithuania,SAS
+399,2016-17,Donatas Motiejunas,84.0,4.4,3.0,0.9,None,Lithuania,NOP
+400,2017-18,Donovan Mitchell,75.0,20.5,3.7,3.7,Louisville,USA,UTA
+401,2018-19,Donovan Mitchell,75.0,23.8,4.1,4.2,Louisville,USA,UTA
+402,2018-19,Donte DiVincenzo,76.0,4.9,2.4,1.1,Villanova,USA,MIL
+403,2018-19,Donte Grantham,80.0,0.0,0.0,0.0,Clemson,USA,OKC
+404,2016-17,Dorian Finney-Smith,80.0,4.3,2.7,0.8,Florida,USA,DAL
+405,2017-18,Dorian Finney-Smith,80.0,5.9,3.6,1.2,Florida,USA,DAL
+406,2018-19,Dorian Finney-Smith,80.0,7.5,4.8,1.2,Florida,USA,DAL
+407,2017-18,Doug McDermott,80.0,7.8,2.5,1.0,Creighton,USA,DAL
+408,2018-19,Doug McDermott,80.0,7.3,1.4,0.9,Creighton,USA,IND
+409,2016-17,Doug McDermott,80.0,9.0,2.7,0.9,Creighton,USA,OKC
+410,2018-19,Dragan Bender,85.0,5.0,4.0,1.2,None,Croatia,PHX
+411,2016-17,Dragan Bender,85.0,3.4,2.4,0.5,None,Croatia,PHX
+412,2017-18,Dragan Bender,85.0,6.5,4.4,1.6,None,Croatia,PHX
+413,2016-17,Draymond Green,79.0,10.2,7.9,7.0,Michigan State,USA,GSW
+414,2018-19,Draymond Green,79.0,7.4,7.3,6.9,Michigan State,USA,GSW
+415,2017-18,Draymond Green,79.0,11.0,7.6,7.3,Michigan State,USA,GSW
+416,2018-19,Drew Eubanks,82.0,1.8,1.5,0.3,None,USA,SAS
+417,2018-19,Duncan Robinson,80.0,3.3,1.3,0.3,Michigan,USA,MIA
+418,2018-19,Dusty Hannahs,76.0,4.0,0.5,2.5,Arkansas,USA,MEM
+419,2018-19,Dwayne Bacon,79.0,7.3,2.1,1.1,Florida State,USA,CHA
+420,2017-18,Dwayne Bacon,79.0,3.3,2.3,0.7,Florida State,USA,CHA
+421,2017-18,Dwight Buycks,75.0,7.4,1.4,2.0,Marquette,USA,DET
+422,2016-17,Dwight Howard,83.0,13.5,12.7,1.4,None,USA,ATL
+423,2017-18,Dwight Howard,83.0,16.6,12.5,1.3,None,USA,CHA
+424,2018-19,Dwight Howard,83.0,12.8,9.2,0.4,None,USA,WAS
+425,2017-18,Dwight Powell,83.0,8.5,5.6,1.2,Stanford,Canada,DAL
+426,2016-17,Dwight Powell,83.0,6.7,4.0,0.6,Stanford,Canada,DAL
+427,2018-19,Dwight Powell,83.0,10.6,5.3,1.5,Stanford,Canada,DAL
+428,2017-18,Dwyane Wade,76.0,11.4,3.8,3.4,Marquette,USA,MIA
+429,2016-17,Dwyane Wade,76.0,18.3,4.5,3.8,Marquette,USA,CHI
+430,2018-19,Dwyane Wade,76.0,15.0,4.0,4.2,Marquette,USA,MIA
+431,2018-19,Dzanan Musa,81.0,2.1,0.6,0.2,None,Bosnia and Herzegovina,BKN
+432,2018-19,E'Twaun Moore,76.0,11.9,2.4,1.9,Purdue,USA,NOP
+433,2017-18,E'Twaun Moore,76.0,12.5,2.9,2.3,Purdue,USA,NOP
+434,2016-17,E'Twaun Moore,76.0,9.6,2.1,2.2,Purdue,USA,NOP
+435,2016-17,Ed Davis,82.0,4.3,5.3,0.6,North Carolina,USA,POR
+436,2017-18,Ed Davis,82.0,5.3,7.4,0.5,North Carolina,USA,POR
+437,2018-19,Ed Davis,82.0,5.8,8.6,0.8,North Carolina,USA,BKN
+438,2018-19,Edmond Sumner,78.0,2.9,1.0,0.4,Xavier,USA,IND
+439,2017-18,Edmond Sumner,77.0,2.0,1.0,0.0,Xavier,USA,IND
+440,2016-17,Edy Tavares,87.0,4.0,5.5,0.5,None,Cabo Verde,CLE
+441,2017-18,Ekpe Udoh,82.0,2.6,2.4,0.8,Baylor,USA,UTA
+442,2018-19,Ekpe Udoh,82.0,2.3,1.8,0.5,Baylor,USA,UTA
+443,2018-19,Elfrid Payton,76.0,10.6,5.2,7.6,Louisana-Lafayette,USA,NOP
+444,2017-18,Elfrid Payton,76.0,12.7,4.3,6.2,Louisana-Lafayette,USA,PHX
+445,2016-17,Elfrid Payton,76.0,12.8,4.7,6.5,Louisiana-Lafayette,USA,ORL
+446,2018-19,Elie Okobo,75.0,5.7,1.8,2.4,None,France,PHX
+447,2016-17,Elijah Millsap,79.0,1.5,3.0,0.5,Alabama-Birmingham,USA,PHX
+448,2018-19,Emanuel Terry,81.0,3.3,2.3,0.7,None,USA,MIA
+449,2017-18,Emeka Okafor,82.0,4.4,4.6,0.3,Connecticut,USA,NOP
+450,2016-17,Emmanuel Mudiay,77.0,11.0,3.2,3.9,None,Democratic Republic of the Congo,DEN
+451,2017-18,Emmanuel Mudiay,77.0,8.6,2.4,3.2,None,Democratic Republic of the Congo,NYK
+452,2018-19,Emmanuel Mudiay,77.0,14.8,3.3,3.9,None,Democratic Republic of the Congo,NYK
+453,2018-19,Enes Kanter,83.0,13.7,9.8,1.7, ,Turkey,POR
+454,2017-18,Enes Kanter,83.0,14.1,11.0,1.5, ,Turkey,NYK
+455,2016-17,Enes Kanter,83.0,14.3,6.7,0.9,Kentucky,Turkey,OKC
+456,2017-18,Eric Bledsoe,73.0,17.7,3.8,5.0,Kentucky,USA,MIL
+457,2018-19,Eric Bledsoe,73.0,15.9,4.6,5.5,Kentucky,USA,MIL
+458,2016-17,Eric Bledsoe,73.0,21.1,4.8,6.3,Kentucky,USA,PHX
+459,2018-19,Eric Gordon,76.0,16.2,2.2,1.9,Indiana,USA,HOU
+460,2017-18,Eric Gordon,76.0,18.0,2.5,2.2,Indiana,USA,HOU
+461,2016-17,Eric Gordon,76.0,16.2,2.7,2.5,Indiana,USA,HOU
+462,2017-18,Eric Moreland,82.0,2.1,4.1,1.2,Oregon State,USA,DET
+463,2018-19,Eric Moreland,82.0,1.4,4.0,0.8,Oregon State,USA,TOR
+464,2017-18,Erik McCree,80.0,0.0,0.3,0.0,Louisiana Tech,USA,UTA
+465,2016-17,Ersan Ilyasova,82.0,13.1,5.9,1.7,None,Turkey,ATL
+466,2018-19,Ersan Ilyasova,82.0,6.8,4.5,0.8,None,Turkey,MIL
+467,2017-18,Ersan Ilyasova,82.0,10.9,5.9,1.3,None,Turkey,PHI
+468,2017-18,Evan Fournier,79.0,17.8,3.2,2.9,None,France,ORL
+469,2016-17,Evan Fournier,79.0,17.2,3.1,3.0,None,France,ORL
+470,2018-19,Evan Fournier,79.0,15.1,3.2,3.6,None,France,ORL
+471,2016-17,Evan Turner,79.0,9.0,3.8,3.2,Ohio State,USA,POR
+472,2017-18,Evan Turner,79.0,8.2,3.1,2.2,Ohio State,USA,POR
+473,2018-19,Evan Turner,79.0,6.8,4.5,3.9,Ohio State,USA,POR
+474,2018-19,Frank Jackson,75.0,8.1,2.2,1.1,Duke,USA,NOP
+475,2018-19,Frank Kaminsky,84.0,8.6,3.5,1.3,Wisconsin,USA,CHA
+476,2016-17,Frank Kaminsky,84.0,11.7,4.5,2.2,Wisconsin,USA,CHA
+477,2017-18,Frank Kaminsky,84.0,11.1,3.6,1.6,Wisconsin,USA,CHA
+478,2017-18,Frank Mason,71.0,7.9,2.5,2.8,Kansas,USA,SAC
+479,2018-19,Frank Mason,71.0,5.1,1.1,2.2,Kansas,USA,SAC
+480,2018-19,Frank Ntilikina,78.0,5.7,2.0,2.8,None,France,NYK
+481,2017-18,Frank Ntilikina,77.0,5.9,2.3,3.2,None,France,NYK
+482,2018-19,Fred VanVleet,72.0,11.0,2.6,4.8,Wichita State,USA,TOR
+483,2017-18,Fred VanVleet,72.0,8.6,2.4,3.2,Wichita State,USA,TOR
+484,2016-17,Fred VanVleet,72.0,2.9,1.1,0.9,Wichita State,USA,TOR
+485,2017-18,Furkan Korkmaz,79.0,1.6,0.8,0.3,None,Turkey,PHI
+486,2018-19,Furkan Korkmaz,79.0,5.8,2.2,1.1,None,Turkey,PHI
+487,2017-18,Garrett Temple,78.0,8.4,2.3,1.9,Louisiana State,USA,SAC
+488,2016-17,Garrett Temple,78.0,7.8,2.8,2.6,Louisiana State,USA,SAC
+489,2018-19,Garrett Temple,78.0,7.8,2.9,1.4,Louisiana State,USA,LAC
+490,2018-19,Gary Clark,80.0,2.9,2.3,0.4,None,USA,HOU
+491,2017-18,Gary Harris,76.0,17.5,2.6,2.9,Michigan State,USA,DEN
+492,2016-17,Gary Harris,76.0,14.9,3.1,2.9,Michigan State,USA,DEN
+493,2018-19,Gary Harris,76.0,12.9,2.8,2.2,Michigan State,USA,DEN
+494,2016-17,Gary Neal,76.0,2.0,0.5,0.5,Towson,USA,ATL
+495,2018-19,Gary Payton II,75.0,3.7,0.7,1.3,Oregon State,USA,WAS
+496,2017-18,Gary Payton II,75.0,3.0,1.9,0.9,Oregon State,USA,LAL
+497,2016-17,Gary Payton II,75.0,3.3,2.0,2.2,Oregon State,USA,MIL
+498,2018-19,Gary Trent Jr.,78.0,2.7,0.7,0.3,None,USA,POR
+499,2018-19,George Hill,75.0,7.6,2.5,2.3,None,USA,MIL
+500,2017-18,George Hill,75.0,10.0,2.7,2.8,None,USA,CLE
+501,2016-17,George Hill,75.0,16.9,3.4,4.2,Indiana Purdue-Indianapolis,USA,UTA
+502,2018-19,George King,78.0,0.0,1.0,0.0,University of Colorado Boulder,USA,PHX
+503,2017-18,Georges Niang,78.0,1.0,1.0,0.3,Iowa State,USA,UTA
+504,2016-17,Georges Niang,80.0,0.9,0.7,0.2,Iowa State,USA,IND
+505,2018-19,Georges Niang,80.0,4.0,1.5,0.6,Iowa State,USA,UTA
+506,2017-18,Georgios Papagiannis,85.0,2.1,2.2,0.5,None,Greece,POR
+507,2016-17,Georgios Papagiannis,85.0,5.6,3.9,0.9,None,Greece,SAC
+508,2016-17,Gerald Green,79.0,5.6,1.8,0.7,None,USA,BOS
+509,2018-19,Gerald Green,79.0,9.2,2.5,0.5,None,USA,HOU
+510,2017-18,Gerald Green,79.0,12.1,3.2,0.6,None,USA,HOU
+511,2016-17,Gerald Henderson,77.0,9.2,2.6,1.6,Duke,USA,PHI
+512,2017-18,Gian Clavell,76.0,2.9,1.0,0.4,Colorado State,Puerto Rico,DAL
+513,2017-18,Giannis Antetokounmpo,83.0,26.9,10.0,4.8,None,Greece,MIL
+514,2016-17,Giannis Antetokounmpo,83.0,22.9,8.8,5.4,None,Greece,MIL
+515,2018-19,Giannis Antetokounmpo,83.0,27.7,12.5,5.9,None,Greece,MIL
+516,2017-18,Glenn Robinson III,79.0,4.1,1.6,0.7,Michigan,USA,IND
+517,2016-17,Glenn Robinson III,78.0,6.1,3.6,0.7,Michigan,USA,IND
+518,2018-19,Glenn Robinson III,78.0,4.2,1.5,0.4,Michigan,USA,DET
+519,2018-19,Goran Dragic,75.0,13.7,3.1,4.8,None,Slovenia,MIA
+520,2017-18,Goran Dragic,75.0,17.3,4.1,4.8,None,Slovenia,MIA
+521,2016-17,Goran Dragic,75.0,20.3,3.8,5.8,None,Slovenia,MIA
+522,2017-18,Gordon Hayward,80.0,2.0,1.0,0.0,Butler,USA,BOS
+523,2016-17,Gordon Hayward,80.0,21.9,5.4,3.5,Butler,USA,UTA
+524,2018-19,Gordon Hayward,80.0,11.5,4.5,3.4,Butler,USA,BOS
+525,2018-19,Gorgui Dieng,83.0,6.4,4.1,0.9,Louisville,Senegal,MIN
+526,2017-18,Gorgui Dieng,83.0,5.9,4.6,0.9,Louisville,Senegal,MIN
+527,2016-17,Gorgui Dieng,83.0,10.0,7.9,1.9,Louisville,Senegal,MIN
+528,2018-19,Grayson Allen,77.0,5.6,0.6,0.7,Duke,USA,UTA
+529,2018-19,Greg Monroe,83.0,5.3,4.0,0.6,Georgetown,USA,PHI
+530,2017-18,Greg Monroe,83.0,10.3,6.9,2.2,Georgetown,USA,BOS
+531,2016-17,Greg Monroe,83.0,11.7,6.6,2.3,Georgetown,USA,MIL
+532,2016-17,Greivis Vasquez,78.0,2.3,0.7,1.7,Maryland,Venezuela,BKN
+533,2018-19,Guerschon Yabusele,80.0,2.3,1.3,0.4,None,France,BOS
+534,2017-18,Guerschon Yabusele,80.0,2.4,1.6,0.5,None,France,BOS
+535,2018-19,Hamidou Diallo,77.0,3.7,1.9,0.3,Kentucky,USA,OKC
+536,2016-17,Harrison Barnes,80.0,19.2,5.0,1.5,North Carolina,USA,DAL
+537,2017-18,Harrison Barnes,80.0,18.9,6.1,2.0,North Carolina,USA,DAL
+538,2018-19,Harrison Barnes,80.0,16.4,4.7,1.5,North Carolina,USA,SAC
+539,2018-19,Harry Giles III,82.0,7.0,3.8,1.5,Duke,USA,SAC
+540,2017-18,Hassan Whiteside,84.0,14.0,11.4,1.0,Marshall,USA,MIA
+541,2018-19,Hassan Whiteside,84.0,12.3,11.3,0.8,Marshall,USA,MIA
+542,2016-17,Hassan Whiteside,84.0,17.0,14.1,0.7,Marshall,USA,MIA
+543,2018-19,Haywood Highsmith,79.0,1.8,1.0,0.4,None,USA,PHI
+544,2018-19,Henry Ellenson,83.0,6.0,3.5,0.8,Marquette,USA,NYK
+545,2017-18,Henry Ellenson,83.0,4.0,2.1,0.5,Marquette,USA,DET
+546,2016-17,Henry Ellenson,83.0,3.2,2.2,0.4,Marquette,USA,DET
+547,2016-17,Hollis Thompson,80.0,5.1,2.8,0.9,Georgetown,USA,NOP
+548,2018-19,Ian Clark,75.0,6.7,1.5,1.6,Belmont,USA,NOP
+549,2017-18,Ian Clark,75.0,7.4,1.7,1.5,Belmont,USA,NOP
+550,2016-17,Ian Clark,75.0,6.8,1.6,1.2,Belmont,USA,GSW
+551,2017-18,Ian Mahinmi,83.0,4.8,4.1,0.7,None,France,WAS
+552,2018-19,Ian Mahinmi,83.0,4.1,3.8,0.7,None,France,WAS
+553,2016-17,Ian Mahinmi,83.0,5.6,4.8,0.6,None,France,WAS
+554,2018-19,Ike Anigbogu,82.0,0.0,1.0,0.3,UCLA,USA,IND
+555,2017-18,Ike Anigbogu,82.0,1.2,0.8,0.0,UCLA,USA,IND
+556,2018-19,Iman Shumpert,77.0,7.5,3.0,1.8,Georgia Tech,USA,HOU
+557,2016-17,Iman Shumpert,77.0,7.5,2.9,1.4,Georgia Tech,USA,CLE
+558,2017-18,Iman Shumpert,77.0,4.4,2.9,1.2,Georgia Tech,USA,SAC
+559,2018-19,Isaac Bonga,80.0,0.9,1.1,0.7,None,Germany,LAL
+560,2018-19,Isaac Humphries,84.0,3.0,2.2,0.0,Kentucky,Australia,ATL
+561,2018-19,Isaiah Briscoe,75.0,3.5,1.9,2.2,None,USA,ORL
+562,2016-17,Isaiah Canaan,72.0,4.6,1.3,0.9,Murray State,USA,CHI
+563,2018-19,Isaiah Canaan,72.0,6.0,1.9,2.8,Murray State,USA,MIL
+564,2017-18,Isaiah Canaan,72.0,8.6,2.3,3.8,Murray State,USA,OKC
+565,2018-19,Isaiah Hartenstein,84.0,1.9,1.7,0.5,None,Germany,HOU
+566,2018-19,Isaiah Hicks,81.0,4.0,2.3,0.7,North Carolina,USA,NYK
+567,2017-18,Isaiah Hicks,81.0,4.4,2.3,0.9,North Carolina,USA,NYK
+568,2016-17,Isaiah Taylor,75.0,0.8,0.8,0.8,Texas,USA,HOU
+569,2017-18,Isaiah Taylor,75.0,6.6,1.4,3.1,Texas,USA,ATL
+570,2016-17,Isaiah Thomas,69.0,28.9,2.7,5.9,Washington,USA,BOS
+571,2017-18,Isaiah Thomas,69.0,15.2,2.1,4.8,Washington,USA,LAL
+572,2018-19,Isaiah Thomas,69.0,8.1,1.1,1.9,Washington,USA,DEN
+573,2017-18,Isaiah Whitehead,76.0,6.3,1.6,1.3,Seton Hall,USA,BKN
+574,2016-17,Isaiah Whitehead,76.0,7.4,2.5,2.6,Seton Hall,USA,BKN
+575,2017-18,Ish Smith,72.0,10.9,2.7,4.4,Wake Forest,USA,DET
+576,2016-17,Ish Smith,72.0,9.4,2.9,5.2,Wake Forest,USA,DET
+577,2018-19,Ish Smith,72.0,8.9,2.6,3.6,Wake Forest,USA,DET
+578,2017-18,Ivan Rabb,82.0,5.6,4.4,0.9,"University of California, Berkeley",USA,MEM
+579,2018-19,Ivan Rabb,82.0,5.8,4.2,1.1,"University of California, Berkeley",USA,MEM
+580,2018-19,Ivica Zubac,85.0,8.9,6.1,1.1,None,Croatia,LAC
+581,2016-17,Ivica Zubac,85.0,7.5,4.2,0.8,None,Croatia,LAL
+582,2017-18,Ivica Zubac,85.0,3.7,2.9,0.6,None,Croatia,LAL
+583,2017-18,J.J. Barea,72.0,11.6,2.9,6.3,Northeastern,Puerto Rico,DAL
+584,2016-17,J.J. Barea,72.0,10.9,2.4,5.5,Northeastern,Puerto Rico,DAL
+585,2018-19,J.J. Barea,72.0,10.9,2.5,5.6,Northeastern,Puerto Rico,DAL
+586,2018-19,J.P. Macura,77.0,3.0,1.5,1.0,Xavier,USA,CHA
+587,2017-18,JJ Redick,76.0,17.1,2.5,3.0,Duke,USA,PHI
+588,2018-19,JJ Redick,76.0,18.1,2.4,2.7,Duke,USA,PHI
+589,2016-17,JJ Redick,76.0,15.0,2.2,1.4,Duke,USA,LAC
+590,2016-17,JR Smith,78.0,8.6,2.8,1.5,None,USA,CLE
+591,2018-19,JR Smith,78.0,6.7,1.6,1.9,None,USA,CLE
+592,2017-18,JR Smith,78.0,8.3,2.9,1.8,None,USA,CLE
+593,2017-18,JaKarr Sampson,81.0,4.7,3.5,0.4,"St. John's, N.Y.",USA,SAC
+594,2018-19,JaKarr Sampson,81.0,20.0,8.0,1.0,"St. John's, N.Y.",USA,CHI
+595,2016-17,JaMychal Green,81.0,8.9,7.1,1.1,Alabama,USA,MEM
+596,2018-19,JaMychal Green,81.0,9.4,6.3,0.8,Alabama,USA,LAC
+597,2017-18,JaMychal Green,81.0,10.3,8.4,1.4,Alabama,USA,MEM
+598,2017-18,JaVale McGee,84.0,4.8,2.6,0.5,Nevada-Reno,USA,GSW
+599,2018-19,JaVale McGee,84.0,12.0,7.5,0.7,Nevada-Reno,USA,LAL
+600,2016-17,JaVale McGee,84.0,6.1,3.2,0.2,Nevada,USA,GSW
+601,2017-18,Jabari Bird,78.0,3.0,1.5,0.6,California,USA,BOS
+602,2016-17,Jabari Parker,80.0,20.1,6.2,2.8,Duke,USA,MIL
+603,2017-18,Jabari Parker,80.0,12.6,4.9,1.9,Duke,USA,MIL
+604,2018-19,Jabari Parker,80.0,14.5,6.6,2.4,Duke,USA,WAS
+605,2017-18,Jack Cooley,82.0,5.7,4.3,0.9,Notre Dame,USA,SAC
+606,2018-19,Jacob Evans,78.0,1.3,0.8,0.8,Cincinnati,USA,GSW
+607,2017-18,Jacob Pullen,73.0,0.7,0.0,0.0,Kansas State,USA,PHI
+608,2017-18,Jacob Wiley,80.0,0.8,2.2,0.4,Eastern Washington,USA,BKN
+609,2017-18,Jae Crowder,78.0,9.7,3.4,1.2,Marquette,USA,UTA
+610,2016-17,Jae Crowder,78.0,13.9,5.8,2.2,Marquette,USA,BOS
+611,2018-19,Jae Crowder,78.0,11.9,4.8,1.7,Marquette,USA,UTA
+612,2016-17,Jahlil Okafor,83.0,11.8,4.8,1.2,Duke,USA,PHI
+613,2017-18,Jahlil Okafor,83.0,6.3,3.0,0.4,Duke,USA,BKN
+614,2018-19,Jahlil Okafor,83.0,8.2,4.7,0.7,Duke,USA,NOP
+615,2017-18,Jake Layman,81.0,1.0,0.5,0.3,Maryland,USA,POR
+616,2016-17,Jake Layman,81.0,2.2,0.7,0.3,Maryland,USA,POR
+617,2018-19,Jake Layman,81.0,7.6,3.1,0.7,Maryland,USA,POR
+618,2018-19,Jakob Poeltl,84.0,5.5,5.3,1.2,Utah,Austria,SAS
+619,2016-17,Jakob Poeltl,84.0,3.1,3.1,0.2,Utah,Austria,TOR
+620,2017-18,Jakob Poeltl,84.0,6.9,4.8,0.7,Utah,Austria,TOR
+621,2018-19,Jalen Brunson,75.0,9.3,2.3,3.2,Villanova,USA,DAL
+622,2018-19,Jalen Jones,79.0,5.1,2.1,0.4,Texas A&M,USA,CLE
+623,2017-18,Jalen Jones,79.0,4.6,2.4,0.3,Texas A&M,USA,DAL
+624,2018-19,Jamal Crawford,77.0,7.9,1.3,3.6,Michigan,USA,PHX
+625,2016-17,Jamal Crawford,77.0,12.3,1.6,2.6,Michigan,USA,LAC
+626,2017-18,Jamal Crawford,77.0,10.3,1.2,2.3,Michigan,USA,MIN
+627,2017-18,Jamal Murray,76.0,16.7,3.7,3.4,Kentucky,Canada,DEN
+628,2018-19,Jamal Murray,76.0,18.2,4.2,4.8,Kentucky,Canada,DEN
+629,2016-17,Jamal Murray,76.0,9.9,2.6,2.1,Kentucky,Canada,DEN
+630,2017-18,Jameel Warney,80.0,5.7,3.0,0.0,"Stony Brook, N.Y.",USA,DAL
+631,2017-18,Jameer Nelson,72.0,4.9,2.1,3.6,None,USA,DET
+632,2016-17,Jameer Nelson,72.0,9.2,2.6,5.1,Saint Joseph's,USA,DEN
+633,2017-18,Jamel Artis,79.0,5.1,2.5,1.2,Pittsburgh,USA,ORL
+634,2016-17,James Ennis III,79.0,6.7,4.0,1.0,Long Beach State,USA,MEM
+635,2018-19,James Ennis III,79.0,6.7,3.1,0.7,Cal State-Long Beach,USA,PHI
+636,2017-18,James Ennis III,79.0,7.1,3.1,1.0,Cal State-Long Beach,USA,DET
+637,2016-17,James Harden,77.0,29.1,8.1,11.2,Arizona State,USA,HOU
+638,2017-18,James Harden,77.0,30.4,5.4,8.8,Arizona State,USA,HOU
+639,2018-19,James Harden,77.0,36.1,6.6,7.5,Arizona State,USA,HOU
+640,2016-17,James Johnson,81.0,12.8,4.9,3.6,Wake Forest,USA,MIA
+641,2018-19,James Johnson,80.0,7.8,3.2,2.5,Wake Forest,USA,MIA
+642,2017-18,James Johnson,80.0,10.8,4.9,3.8,Wake Forest,USA,MIA
+643,2016-17,James Jones,80.0,2.8,0.8,0.3,Miami (FL),USA,CLE
+644,2017-18,James Michael McAdoo,81.0,2.7,0.7,0.0,North Carolina,USA,PHI
+645,2016-17,James Michael McAdoo,81.0,2.8,1.8,0.3,North Carolina,USA,GSW
+646,2018-19,James Nunnally,79.0,2.4,0.3,0.5,Cal-Santa Barbara,USA,HOU
+647,2017-18,James Webb III,81.0,1.6,2.4,0.4,Boise State,USA,BKN
+648,2017-18,James Young,78.0,2.8,0.3,0.3,Kentucky,USA,PHI
+649,2016-17,James Young,78.0,2.3,0.9,0.1,Kentucky,USA,BOS
+650,2017-18,Jamil Wilson,79.0,7.0,2.1,0.7,Marquette,USA,LAC
+651,2018-19,Jared Dudley,79.0,4.9,2.6,1.4,Boston College,USA,BKN
+652,2017-18,Jared Dudley,79.0,3.2,2.0,1.6,Boston College,USA,PHX
+653,2016-17,Jared Dudley,79.0,6.8,3.5,1.9,Boston College,USA,PHX
+654,2016-17,Jared Sullinger,81.0,3.4,2.5,0.3,Ohio State,USA,TOR
+655,2018-19,Jared Terrell,75.0,2.2,0.4,0.9,Rhode Island,USA,MIN
+656,2017-18,Jarell Eddie,79.0,0.0,0.3,0.0,Virginia Tech,USA,CHI
+657,2016-17,Jarell Eddie,79.0,4.8,1.4,0.0,Virginia Tech,USA,PHX
+658,2016-17,Jarell Martin,82.0,3.9,3.9,0.2,Louisiana State,USA,MEM
+659,2018-19,Jarell Martin,82.0,2.7,1.7,0.4,Louisiana State,USA,ORL
+660,2017-18,Jarell Martin,82.0,7.7,4.4,1.0,Louisiana State,USA,MEM
+661,2018-19,Jaren Jackson Jr.,83.0,13.8,4.7,1.1,Michigan State,USA,MEM
+662,2016-17,Jarnell Stokes,81.0,1.5,1.0,1.0,Tennessee,USA,DEN
+663,2018-19,Jaron Blossomgame,80.0,4.2,3.6,0.5,Clemson,USA,CLE
+664,2018-19,Jarred Vanderbilt,81.0,1.4,1.4,0.2,Kentucky,USA,DEN
+665,2017-18,Jarrett Allen,83.0,8.2,5.4,0.7,Texas,USA,BKN
+666,2018-19,Jarrett Allen,83.0,10.9,8.4,1.4,Texas,USA,BKN
+667,2017-18,Jarrett Jack,75.0,7.5,3.1,5.6,Georgia Tech,USA,NYK
+668,2016-17,Jarrett Jack,75.0,3.0,0.0,2.5,Georgia Tech,USA,NOP
+669,2016-17,Jarrod Uthoff,81.0,4.4,2.4,1.0,Iowa,USA,DAL
+670,2017-18,Jason Smith,84.0,3.4,1.6,0.4,Colorado State,USA,WAS
+671,2016-17,Jason Smith,84.0,5.7,3.5,0.5,Colorado State,USA,WAS
+672,2018-19,Jason Smith,84.0,3.3,2.6,0.7,Colorado State,USA,NOP
+673,2016-17,Jason Terry,74.0,4.1,1.4,1.3,Arizona,USA,MIL
+674,2017-18,Jason Terry,74.0,3.3,0.9,1.2,Arizona,USA,MIL
+675,2018-19,Jawun Evans,72.0,0.8,1.5,1.3,Oklahoma State,USA,OKC
+676,2017-18,Jawun Evans,72.0,4.8,1.8,2.1,Oklahoma State,USA,LAC
+677,2018-19,Jaylen Adams,74.0,3.2,1.8,1.9,St. Bonaventure,USA,ATL
+678,2016-17,Jaylen Brown,79.0,6.6,2.8,0.8,California,USA,BOS
+679,2017-18,Jaylen Brown,79.0,14.5,4.9,1.6,California,USA,BOS
+680,2018-19,Jaylen Brown,79.0,13.0,4.2,1.4,California,USA,BOS
+681,2018-19,Jaylen Morris,77.0,2.5,1.3,1.0,Molloy,USA,MIL
+682,2017-18,Jaylen Morris,77.0,4.7,2.7,1.2,Molloy,USA,ATL
+683,2017-18,Jayson Tatum,80.0,13.9,5.0,1.6,Duke,USA,BOS
+684,2018-19,Jayson Tatum,80.0,15.7,6.0,2.1,Duke,USA,BOS
+685,2016-17,Jeff Green,81.0,9.2,3.1,1.2,Georgetown,USA,ORL
+686,2017-18,Jeff Green,81.0,10.8,3.2,1.3,Georgetown,USA,CLE
+687,2018-19,Jeff Green,81.0,12.3,4.0,1.8,Georgetown,USA,WAS
+688,2017-18,Jeff Teague,74.0,14.2,3.0,7.0,Wake Forest,USA,MIN
+689,2016-17,Jeff Teague,74.0,15.3,4.0,7.8,Wake Forest,USA,IND
+690,2018-19,Jeff Teague,74.0,12.1,2.5,8.2,Wake Forest,USA,MIN
+691,2017-18,Jeff Withey,84.0,1.5,1.0,0.0,Kansas,USA,DAL
+692,2016-17,Jeff Withey,84.0,2.9,2.4,0.1,Kansas,USA,UTA
+693,2018-19,Jemerrio Jones,77.0,4.5,8.2,2.2,None,USA,LAL
+694,2018-19,Jerami Grant,81.0,13.6,5.2,1.0,Syracuse,USA,OKC
+695,2016-17,Jerami Grant,81.0,5.5,2.6,0.6,Syracuse,USA,OKC
+696,2017-18,Jerami Grant,81.0,8.4,3.9,0.7,Syracuse,USA,OKC
+697,2017-18,Jeremy Evans,81.0,2.0,1.0,0.0,Western Kentucky,USA,ATL
+698,2018-19,Jeremy Lamb,77.0,15.3,5.5,2.2,Connecticut,USA,CHA
+699,2017-18,Jeremy Lamb,77.0,12.9,4.1,2.3,Connecticut,USA,CHA
+700,2016-17,Jeremy Lamb,77.0,9.7,4.3,1.2,Connecticut,USA,CHA
+701,2016-17,Jeremy Lin,75.0,14.5,3.8,5.1,Harvard,USA,BKN
+702,2017-18,Jeremy Lin,75.0,18.0,0.0,4.0,Harvard,USA,BKN
+703,2018-19,Jeremy Lin,75.0,9.6,2.4,3.1,Harvard,USA,TOR
+704,2016-17,Jerian Grant,76.0,5.9,1.8,1.9,Notre Dame,USA,CHI
+705,2017-18,Jerian Grant,76.0,8.4,2.3,4.6,Notre Dame,USA,CHI
+706,2018-19,Jerian Grant,76.0,4.2,1.6,2.6,Notre Dame,USA,ORL
+707,2018-19,Jerome Robinson,77.0,3.4,1.2,0.6,Boston College,USA,LAC
+708,2016-17,Jerryd Bayless,75.0,11.0,4.0,4.3,Arizona,USA,PHI
+709,2017-18,Jerryd Bayless,75.0,7.9,2.1,1.4,Arizona,USA,PHI
+710,2018-19,Jerryd Bayless,75.0,6.1,1.8,3.5,Arizona,USA,MIN
+711,2018-19,Jevon Carter,74.0,4.4,1.7,1.8,West Virginia,USA,MEM
+712,2018-19,Jimmer Fredette,74.0,3.7,1.2,1.3,Brigham Young,USA,PHX
+713,2016-17,Jimmy Butler,79.0,23.9,6.2,5.5,Marquette,USA,CHI
+714,2017-18,Jimmy Butler,80.0,22.2,5.3,4.9,Marquette,USA,MIN
+715,2018-19,Jimmy Butler,80.0,18.7,5.3,4.0,Marquette,USA,PHI
+716,2018-19,Joakim Noah,83.0,7.1,5.7,2.1,Florida,USA,MEM
+717,2016-17,Joakim Noah,83.0,5.0,8.8,2.2,Florida,USA,NYK
+718,2017-18,Joakim Noah,83.0,1.7,2.0,0.6,Florida,USA,NYK
+719,2018-19,Jodie Meeks,76.0,6.4,1.5,1.0,Kentucky,USA,TOR
+720,2016-17,Jodie Meeks,76.0,9.1,2.1,1.3,Kentucky,USA,ORL
+721,2017-18,Jodie Meeks,76.0,6.3,1.6,0.9,Kentucky,USA,WAS
+722,2018-19,Joe Chealey,75.0,2.0,0.0,1.0,College of Charleston,USA,CHA
+723,2018-19,Joe Harris,78.0,13.7,3.8,2.4,Virginia,USA,BKN
+724,2016-17,Joe Harris,78.0,8.2,2.8,1.0,Virginia,USA,BKN
+725,2017-18,Joe Harris,78.0,10.8,3.3,1.6,Virginia,USA,BKN
+726,2016-17,Joe Ingles,80.0,7.1,3.2,2.7,None,Australia,UTA
+727,2018-19,Joe Ingles,80.0,12.1,4.0,5.7,None,Australia,UTA
+728,2017-18,Joe Ingles,80.0,11.5,4.2,4.8,None,Australia,UTA
+729,2016-17,Joe Johnson,79.0,9.2,3.1,1.8,Arkansas,USA,UTA
+730,2017-18,Joe Johnson,79.0,6.8,3.1,1.5,Arkansas,USA,HOU
+731,2017-18,Joe Young,74.0,3.9,1.2,0.7,Oregon,USA,IND
+732,2016-17,Joe Young,74.0,2.1,0.5,0.5,Oregon,USA,IND
+733,2016-17,Joel Anthony,81.0,1.3,1.6,0.2,Nevada-Las Vegas,Canada,SAS
+734,2017-18,Joel Bolomboy,81.0,1.5,1.7,0.0,Weber State,Ukraine,UTA
+735,2016-17,Joel Bolomboy,81.0,1.8,1.4,0.2,Weber State,Ukraine,UTA
+736,2017-18,Joel Embiid,84.0,22.9,11.0,3.2,Kansas,Cameroon,PHI
+737,2018-19,Joel Embiid,84.0,27.5,13.6,3.7,Kansas,Cameroon,PHI
+738,2016-17,Joel Embiid,84.0,20.2,7.8,2.1,Kansas,Cameroon,PHI
+739,2017-18,Joffrey Lauvergne,83.0,4.1,3.1,0.7,None,France,SAS
+740,2016-17,Joffrey Lauvergne,83.0,5.4,3.6,1.0,None,France,CHI
+741,2018-19,John Collins,82.0,19.5,9.8,2.0,Wake Forest,USA,ATL
+742,2017-18,John Collins,82.0,10.5,7.3,1.3,Wake Forest,USA,ATL
+743,2018-19,John Henson,83.0,5.6,5.1,1.0,North Carolina,USA,CLE
+744,2017-18,John Henson,83.0,8.8,6.8,1.5,North Carolina,USA,MIL
+745,2016-17,John Henson,83.0,6.8,5.1,1.0,North Carolina,USA,MIL
+746,2018-19,John Holland,77.0,0.0,0.0,0.0,Boston U.,USA,CLE
+747,2017-18,John Holland,77.0,2.3,1.0,0.2,Boston U.,USA,CLE
+748,2016-17,John Jenkins,76.0,1.8,0.3,0.3,Vanderbilt,USA,PHX
+749,2018-19,John Jenkins,76.0,4.7,1.4,0.8,Vanderbilt,USA,NYK
+750,2016-17,John Lucas III,71.0,0.4,0.0,0.2,Oklahoma State,USA,MIN
+751,2018-19,John Wall,76.0,20.7,3.6,8.7,Kentucky,USA,WAS
+752,2017-18,John Wall,76.0,19.4,3.7,9.6,Kentucky,USA,WAS
+753,2016-17,John Wall,76.0,23.1,4.2,10.7,Kentucky,USA,WAS
+754,2018-19,Johnathan Motley,82.0,4.6,2.3,0.5,Baylor,USA,LAC
+755,2017-18,Johnathan Motley,82.0,8.7,4.5,0.6,Baylor,USA,DAL
+756,2018-19,Johnathan Williams,81.0,6.5,4.1,0.5,Gonzaga,USA,LAL
+757,2016-17,Johnny O'Bryant III,81.0,3.5,1.7,0.5,Louisiana State,USA,CHA
+758,2017-18,Johnny O'Bryant III,81.0,4.8,2.6,0.4,Louisiana State,USA,CHA
+759,2016-17,Jon Leuer,82.0,10.2,5.4,1.5,Wisconsin,USA,DET
+760,2018-19,Jon Leuer,82.0,3.8,2.4,0.3,Wisconsin,USA,DET
+761,2017-18,Jon Leuer,82.0,5.4,4.0,0.6,Wisconsin,USA,DET
+762,2018-19,Jonah Bolden,82.0,4.7,3.8,0.9,None,Australia,PHI
+763,2016-17,Jonas Jerebko,82.0,3.8,3.5,0.9,None,Sweden,BOS
+764,2018-19,Jonas Jerebko,82.0,6.3,3.9,1.3,None,Sweden,GSW
+765,2017-18,Jonas Jerebko,82.0,5.8,3.3,0.6,None,Sweden,UTA
+766,2016-17,Jonas Valanciunas,84.0,12.0,9.5,0.7,None,Lithuania,TOR
+767,2018-19,Jonas Valanciunas,84.0,15.6,8.6,1.4,None,Lithuania,MEM
+768,2017-18,Jonas Valanciunas,84.0,12.7,8.6,1.1,None,Lithuania,TOR
+769,2016-17,Jonathan Gibson,74.0,6.2,1.3,1.5,New Mexico State,USA,DAL
+770,2017-18,Jonathan Gibson,74.0,8.5,0.8,1.0,New Mexico State,USA,BOS
+771,2017-18,Jonathan Isaac,82.0,5.4,3.7,0.7,Florida State,USA,ORL
+772,2018-19,Jonathan Isaac,82.0,9.6,5.5,1.1,Florida State,USA,ORL
+773,2016-17,Jonathon Simmons,78.0,6.2,2.1,1.6,Houston,USA,SAS
+774,2018-19,Jonathon Simmons,78.0,6.5,2.3,2.3,Houston,USA,PHI
+775,2017-18,Jonathon Simmons,78.0,13.9,3.5,2.5,Houston,USA,ORL
+776,2017-18,Jordan Bell,81.0,4.6,3.6,1.8,Oregon,USA,GSW
+777,2018-19,Jordan Bell,81.0,3.3,2.7,1.1,Oregon,USA,GSW
+778,2017-18,Jordan Clarkson,77.0,13.9,2.7,2.7,Missouri,USA,CLE
+779,2016-17,Jordan Clarkson,77.0,14.7,3.0,2.6,Missouri,USA,LAL
+780,2018-19,Jordan Clarkson,77.0,16.8,3.3,2.4,Missouri,USA,CLE
+781,2017-18,Jordan Crawford,77.0,6.6,0.8,2.6,Xavier,USA,NOP
+782,2016-17,Jordan Crawford,77.0,14.1,1.8,3.0,Xavier,USA,NOP
+783,2016-17,Jordan Farmar,74.0,6.0,1.5,4.5,UCLA,USA,SAC
+784,2016-17,Jordan Hill,82.0,1.7,2.0,0.0,Arizona,USA,MIN
+785,2018-19,Jordan Loyd,76.0,2.4,0.8,0.5,None,USA,TOR
+786,2016-17,Jordan McRae,77.0,4.4,1.1,0.5,Tennessee,USA,CLE
+787,2018-19,Jordan McRae,77.0,5.9,1.5,1.1,Tennessee,USA,WAS
+788,2017-18,Jordan Mickey,80.0,4.0,3.5,0.4,Louisiana State,USA,MIA
+789,2016-17,Jordan Mickey,80.0,1.5,1.4,0.3,Louisiana State,USA,BOS
+790,2018-19,Jordan Sibert,76.0,3.0,0.0,0.0,University of Dayton,USA,ATL
+791,2018-19,Jose Calderon,75.0,2.3,1.2,2.3,None,Spain,DET
+792,2017-18,Jose Calderon,75.0,4.5,1.5,2.1,None,Spain,CLE
+793,2016-17,Jose Calderon,75.0,3.4,1.8,2.1,None,Spain,ATL
+794,2017-18,Josh Gray,73.0,6.4,2.0,2.4,None,USA,PHX
+795,2017-18,Josh Hart,77.0,7.9,4.2,1.3,Villanova,USA,LAL
+796,2018-19,Josh Hart,77.0,7.8,3.7,1.4,Villanova,USA,LAL
+797,2016-17,Josh Huestis,79.0,7.0,4.5,1.5,Stanford,USA,OKC
+798,2017-18,Josh Huestis,79.0,2.3,2.3,0.3,Stanford,USA,OKC
+799,2018-19,Josh Jackson,80.0,11.5,4.4,2.3,Kansas,USA,PHX
+800,2017-18,Josh Jackson,80.0,13.1,4.6,1.5,Kansas,USA,PHX
+801,2017-18,Josh Magette,73.0,2.6,1.1,3.2,Alabama Huntsville,USA,ATL
+802,2017-18,Josh McRoberts,82.0,0.0,0.0,0.0,Duke,USA,DAL
+803,2016-17,Josh McRoberts,82.0,4.9,3.4,2.3,Duke,USA,MIA
+804,2018-19,Josh Okogie,76.0,7.7,2.9,1.2,Georgia Institute of Technology,Nigeria,MIN
+805,2017-18,Josh Richardson,78.0,12.9,3.5,2.9,Tennessee,USA,MIA
+806,2018-19,Josh Richardson,78.0,16.6,3.6,4.1,Tennessee,USA,MIA
+807,2016-17,Josh Richardson,78.0,10.2,3.2,2.6,Tennessee,USA,MIA
+808,2017-18,Josh Smith,81.0,0.7,1.3,0.0,None,USA,NOP
+809,2016-17,Jrue Holiday,76.0,15.4,3.9,7.3,UCLA,USA,NOP
+810,2018-19,Jrue Holiday,76.0,21.2,5.0,7.7,UCLA,USA,NOP
+811,2017-18,Jrue Holiday,76.0,19.0,4.5,6.0,UCLA,USA,NOP
+812,2016-17,Juancho Hernangomez,81.0,4.9,3.0,0.5,None,Spain,DEN
+813,2018-19,Juancho Hernangomez,81.0,5.8,3.8,0.8,None,Spain,DEN
+814,2017-18,Juancho Hernangomez,81.0,3.3,2.2,0.5,None,Spain,DEN
+815,2018-19,Julian Washburn,80.0,2.2,2.3,0.8,Texas-El Paso,USA,MEM
+816,2016-17,Julius Randle,81.0,13.2,8.6,3.6,Kentucky,USA,LAL
+817,2018-19,Julius Randle,81.0,21.4,8.7,3.1,Kentucky,USA,NOP
+818,2017-18,Julius Randle,81.0,16.1,8.0,2.6,Kentucky,USA,LAL
+819,2017-18,Julyan Stone,78.0,0.8,1.3,1.1,Texas-El Paso,USA,CHA
+820,2016-17,Justin Anderson,78.0,7.1,3.3,0.9,Virginia,USA,PHI
+821,2018-19,Justin Anderson,78.0,3.7,1.8,0.5,Virginia,USA,ATL
+822,2017-18,Justin Anderson,78.0,6.2,2.4,0.7,Virginia,USA,PHI
+823,2016-17,Justin Hamilton,84.0,6.9,4.1,0.9,Louisiana State,USA,BKN
+824,2016-17,Justin Harper,82.0,4.0,1.7,0.7,Richmond,USA,PHI
+825,2017-18,Justin Holiday,78.0,12.2,4.0,2.1,Washington,USA,CHI
+826,2018-19,Justin Holiday,78.0,10.5,3.9,1.8,Washington,USA,MEM
+827,2016-17,Justin Holiday,78.0,7.7,2.7,1.2,Washington,USA,NYK
+828,2017-18,Justin Jackson,80.0,6.7,2.8,1.1,North Carolina,USA,SAC
+829,2018-19,Justin Jackson,80.0,7.2,2.6,1.2,North Carolina,USA,DAL
+830,2017-18,Justin Patton,84.0,2.0,0.0,0.0,Creighton,USA,MIN
+831,2018-19,Justin Patton,84.0,1.7,2.0,1.0,Creighton,USA,PHI
+832,2017-18,Justise Winslow,79.0,7.8,5.4,2.2,Duke,USA,MIA
+833,2016-17,Justise Winslow,79.0,10.9,5.2,3.7,Duke,USA,MIA
+834,2018-19,Justise Winslow,79.0,12.6,5.4,4.3,Duke,USA,MIA
+835,2016-17,Jusuf Nurkic,84.0,10.2,7.2,1.9,None,Bosnia & Herzegovina,POR
+836,2017-18,Jusuf Nurkic,84.0,14.3,9.0,1.8,None,Bosnia and Herzegovina,POR
+837,2018-19,Jusuf Nurkic,84.0,15.6,10.4,3.2,None,Bosnia and Herzegovina,POR
+838,2016-17,KJ McDaniels,78.0,4.2,1.7,0.3,Clemson,USA,BKN
+839,2017-18,Kadeem Allen,75.0,1.1,0.6,0.7,Arizona,USA,BOS
+840,2018-19,Kadeem Allen,75.0,9.9,2.7,4.0,Arizona,USA,NYK
+841,2018-19,Kalin Lucas,73.0,2.0,3.0,1.0,Michigan State,USA,DET
+842,2017-18,Karl-Anthony Towns,84.0,21.3,12.3,2.4,Kentucky,USA,MIN
+843,2016-17,Karl-Anthony Towns,84.0,25.1,12.3,2.7,Kentucky,USA,MIN
+844,2018-19,Karl-Anthony Towns,84.0,24.4,12.4,3.4,Kentucky,USA,MIN
+845,2018-19,Kawhi Leonard,79.0,26.6,7.3,3.3,San Diego State,USA,TOR
+846,2016-17,Kawhi Leonard,79.0,25.5,5.8,3.5,San Diego State,USA,SAS
+847,2017-18,Kawhi Leonard,79.0,16.2,4.7,2.3,San Diego State,USA,SAS
+848,2016-17,Kay Felder,69.0,4.0,1.0,1.4,None,USA,CLE
+849,2017-18,Kay Felder,69.0,3.6,1.1,1.3,None,USA,DET
+850,2018-19,Keita Bates-Diop,81.0,5.0,2.8,0.6,Ohio State,USA,MIN
+851,2016-17,Kelly Olynyk,84.0,9.0,4.8,2.0,Gonzaga,Canada,BOS
+852,2018-19,Kelly Olynyk,84.0,10.0,4.7,1.8,Gonzaga,Canada,MIA
+853,2017-18,Kelly Olynyk,84.0,11.5,5.7,2.7,Gonzaga,Canada,MIA
+854,2016-17,Kelly Oubre Jr.,79.0,6.3,3.3,0.6,Kansas,USA,WAS
+855,2018-19,Kelly Oubre Jr.,79.0,15.2,4.7,1.2,Kansas,USA,PHX
+856,2017-18,Kelly Oubre Jr.,79.0,11.8,4.5,1.2,Kansas,USA,WAS
+857,2016-17,Kemba Walker,73.0,23.2,3.9,5.5,Connecticut,USA,CHA
+858,2017-18,Kemba Walker,73.0,22.1,3.1,5.6,Connecticut,USA,CHA
+859,2018-19,Kemba Walker,73.0,25.6,4.4,5.9,Connecticut,USA,CHA
+860,2017-18,Kendrick Perkins,82.0,3.0,1.0,2.0,None,USA,CLE
+861,2017-18,Kenneth Faried,80.0,5.9,4.8,0.6,Morehead State,USA,DEN
+862,2016-17,Kenneth Faried,80.0,9.6,7.6,0.9,Morehead State,USA,DEN
+863,2018-19,Kenneth Faried,80.0,10.4,6.8,0.5,Morehead State,USA,HOU
+864,2018-19,Kenrich Williams,79.0,6.1,4.8,1.8,None,USA,NOP
+865,2017-18,Kent Bazemore,77.0,12.9,3.8,3.5,Old Dominion,USA,ATL
+866,2016-17,Kent Bazemore,77.0,11.0,3.2,2.4,Old Dominion,USA,ATL
+867,2018-19,Kent Bazemore,77.0,11.6,3.9,2.3,Old Dominion,USA,ATL
+868,2017-18,Kentavious Caldwell-Pope,77.0,13.4,5.2,2.2,Georgia,USA,LAL
+869,2016-17,Kentavious Caldwell-Pope,77.0,13.8,3.3,2.5,Georgia,USA,DET
+870,2018-19,Kentavious Caldwell-Pope,77.0,11.4,2.9,1.3,Georgia,USA,LAL
+871,2017-18,Kevin Durant,81.0,26.4,6.8,5.4,Texas,USA,GSW
+872,2018-19,Kevin Durant,81.0,26.0,6.4,5.9,Texas,USA,GSW
+873,2016-17,Kevin Durant,81.0,25.1,8.3,4.8,Texas,USA,GSW
+874,2018-19,Kevin Huerter,79.0,9.7,3.3,2.9,Maryland,USA,ATL
+875,2018-19,Kevin Knox II,81.0,12.8,4.5,1.1,Kentucky,USA,NYK
+876,2017-18,Kevin Love,82.0,17.6,9.3,1.7,UCLA,USA,CLE
+877,2018-19,Kevin Love,82.0,17.0,10.9,2.2,UCLA,USA,CLE
+878,2016-17,Kevin Love,82.0,19.0,11.1,1.9,UCLA,USA,CLE
+879,2016-17,Kevin Seraphin,82.0,4.7,2.9,0.5,Le Moyne,France,IND
+880,2016-17,Kevon Looney,81.0,2.5,2.3,0.5,UCLA,USA,GSW
+881,2018-19,Kevon Looney,81.0,6.3,5.2,1.5,UCLA,USA,GSW
+882,2017-18,Kevon Looney,81.0,4.0,3.3,0.6,UCLA,USA,GSW
+883,2017-18,Khem Birch,81.0,4.2,4.3,0.8,UNLV,Canada,ORL
+884,2018-19,Khem Birch,81.0,4.8,3.8,0.8,UNLV,Canada,ORL
+885,2017-18,Khris Middleton,80.0,20.1,5.2,4.0,Texas A&M,USA,MIL
+886,2018-19,Khris Middleton,80.0,18.3,6.0,4.3,Texas A&M,USA,MIL
+887,2016-17,Khris Middleton,80.0,14.7,4.2,3.4,Texas A&M,USA,MIL
+888,2018-19,Khyri Thomas,75.0,2.3,0.8,0.3,Creighton,USA,DET
+889,2016-17,Klay Thompson,79.0,22.3,3.7,2.1,Washington State,USA,GSW
+890,2017-18,Klay Thompson,79.0,20.0,3.8,2.5,Washington State,USA,GSW
+891,2018-19,Klay Thompson,79.0,21.5,3.8,2.4,Washington State,USA,GSW
+892,2017-18,Kobi Simmons,76.0,6.1,1.6,2.1,Arizona,USA,MEM
+893,2018-19,Kobi Simmons,76.0,0.0,0.0,0.0,Arizona,USA,CLE
+894,2017-18,Kosta Koufos,84.0,6.7,6.6,1.2,Ohio State,USA,SAC
+895,2016-17,Kosta Koufos,84.0,6.6,5.7,0.7,Ohio State,USA,SAC
+896,2018-19,Kosta Koufos,84.0,3.7,4.2,0.9,Ohio State,USA,SAC
+897,2018-19,Kostas Antetokounmpo,82.0,1.0,0.5,0.0,University of Dayton,Greece,DAL
+898,2018-19,Kris Dunn,76.0,11.3,4.1,6.0,Providence,USA,CHI
+899,2017-18,Kris Dunn,76.0,13.4,4.3,6.0,Providence,USA,CHI
+900,2016-17,Kris Dunn,76.0,3.8,2.1,2.4,Providence,USA,MIN
+901,2016-17,Kris Humphries,81.0,4.6,3.7,0.5,Minnesota,USA,ATL
+902,2016-17,Kristaps Porzingis,87.0,18.1,7.2,1.5,None,Latvia,NYK
+903,2017-18,Kristaps Porzingis,87.0,22.7,6.6,1.2,None,Latvia,NYK
+904,2018-19,Kyle Anderson,81.0,8.0,5.8,3.0,UCLA,USA,MEM
+905,2017-18,Kyle Anderson,81.0,7.9,5.4,2.7,UCLA,USA,SAS
+906,2016-17,Kyle Anderson,81.0,3.4,2.9,1.3,UCLA,USA,SAS
+907,2017-18,Kyle Collinsworth,78.0,3.2,3.3,1.8,Brigham Young,USA,DAL
+908,2018-19,Kyle Korver,79.0,8.6,2.3,1.2,Creighton,USA,UTA
+909,2017-18,Kyle Korver,79.0,9.2,2.3,1.2,Creighton,USA,CLE
+910,2016-17,Kyle Korver,79.0,10.1,2.8,1.6,Creighton,USA,CLE
+911,2018-19,Kyle Kuzma,81.0,18.7,5.5,2.5,Utah,USA,LAL
+912,2017-18,Kyle Kuzma,81.0,16.1,6.3,1.8,Utah,USA,LAL
+913,2018-19,Kyle Lowry,73.0,14.2,4.8,8.7,Villanova,USA,TOR
+914,2017-18,Kyle Lowry,72.0,16.2,5.6,6.9,Villanova,USA,TOR
+915,2016-17,Kyle Lowry,72.0,22.4,4.8,7.0,Villanova,USA,TOR
+916,2016-17,Kyle O'Quinn,82.0,6.3,5.6,1.5,Norfolk State,USA,NYK
+917,2017-18,Kyle O'Quinn,82.0,7.1,6.1,2.1,Norfolk State,USA,NYK
+918,2018-19,Kyle O'Quinn,82.0,3.5,2.6,1.2,Norfolk State,USA,IND
+919,2016-17,Kyle Singler,80.0,2.8,1.5,0.3,Duke,USA,OKC
+920,2017-18,Kyle Singler,80.0,1.9,0.8,0.2,Duke,USA,OKC
+921,2016-17,Kyle Wiltjer,82.0,0.9,0.7,0.1,Gonzaga,Canada,HOU
+922,2017-18,Kyrie Irving,75.0,24.4,3.8,5.1,Duke,Australia,BOS
+923,2016-17,Kyrie Irving,75.0,25.2,3.2,5.8,Duke,Australia,CLE
+924,2018-19,Kyrie Irving,75.0,23.8,5.0,6.9,Duke,Australia,BOS
+925,2017-18,LaMarcus Aldridge,83.0,23.1,8.5,2.0,Texas,USA,SAS
+926,2018-19,LaMarcus Aldridge,83.0,21.3,9.2,2.4,Texas,USA,SAS
+927,2016-17,LaMarcus Aldridge,83.0,17.3,7.3,1.9,Texas,USA,SAS
+928,2016-17,Lamar Patterson,77.0,1.8,1.4,1.2,Pittsburgh,USA,ATL
+929,2017-18,Lance Stephenson,78.0,9.2,5.2,2.9,Cincinnati,USA,IND
+930,2016-17,Lance Stephenson,77.0,6.8,2.9,3.3,Cincinnati,USA,IND
+931,2018-19,Lance Stephenson,78.0,7.2,3.2,2.1,Cincinnati,USA,LAL
+932,2018-19,Lance Thomas,80.0,4.5,2.5,0.6,Duke,USA,NYK
+933,2017-18,Lance Thomas,80.0,4.1,2.4,0.6,Duke,USA,NYK
+934,2016-17,Lance Thomas,80.0,6.0,3.1,0.8,Duke,USA,NYK
+935,2018-19,Landry Shamet,77.0,9.1,1.7,1.5,Wichita State,USA,LAC
+936,2017-18,Langston Galloway,74.0,6.2,1.6,1.0,None,USA,DET
+937,2018-19,Langston Galloway,74.0,8.4,2.1,1.1,None,USA,DET
+938,2016-17,Langston Galloway,74.0,7.9,2.1,1.3,Saint Joseph's,USA,SAC
+939,2017-18,Larry Drew II,74.0,1.7,0.3,1.0,UCLA,USA,NOP
+940,2016-17,Larry Nance Jr.,81.0,7.1,5.9,1.5,Wyoming,USA,LAL
+941,2017-18,Larry Nance Jr.,81.0,8.7,6.8,1.2,Wyoming,USA,CLE
+942,2018-19,Larry Nance Jr.,81.0,9.4,8.2,3.2,Wyoming,USA,CLE
+943,2016-17,Larry Sanders,83.0,0.8,0.8,0.0,Virginia Commonwealth,USA,CLE
+944,2017-18,Lauri Markkanen,84.0,15.2,7.5,1.2,Arizona,Finland,CHI
+945,2018-19,Lauri Markkanen,84.0,18.7,9.0,1.4,Arizona,Finland,CHI
+946,2016-17,Lavoy Allen,81.0,2.9,3.6,0.9,Temple,USA,IND
+947,2017-18,LeBron James,80.0,27.5,8.6,9.1,None,USA,CLE
+948,2016-17,LeBron James,80.0,26.4,8.6,8.7,None,USA,CLE
+949,2018-19,LeBron James,80.0,27.4,8.5,8.3,None,USA,LAL
+950,2016-17,Leandro Barbosa,75.0,6.3,1.6,1.2,None,Brazil,PHX
+951,2017-18,London Perrantes,74.0,0.5,0.3,0.4,Virginia,USA,SAS
+952,2018-19,Lonnie Walker IV,77.0,2.6,1.0,0.5,Miami,USA,SAS
+953,2017-18,Lonzo Ball,78.0,10.2,6.9,7.2,UCLA,USA,LAL
+954,2018-19,Lonzo Ball,78.0,9.9,5.3,5.4,UCLA,USA,LAL
+955,2017-18,Lorenzo Brown,77.0,2.3,1.1,0.9,North Carolina State,USA,TOR
+956,2018-19,Lorenzo Brown,77.0,2.1,1.2,1.1,North Carolina State,USA,TOR
+957,2016-17,Lou Williams,73.0,17.5,2.5,3.0,None,USA,HOU
+958,2017-18,Lou Williams,73.0,22.6,2.5,5.3,None,USA,LAC
+959,2018-19,Lou Williams,73.0,20.0,3.0,5.4,None,USA,LAC
+960,2017-18,Luc Mbah a Moute,80.0,7.5,3.0,0.9,California-Los Angeles,Cameroon,HOU
+961,2018-19,Luc Mbah a Moute,80.0,5.0,1.8,0.5,California-Los Angeles,Cameroon,LAC
+962,2016-17,Luc Mbah a Moute,80.0,6.1,2.1,0.5,UCLA,Cameroon,LAC
+963,2017-18,Lucas Nogueira,84.0,2.5,1.8,0.4,None,Brazil,TOR
+964,2016-17,Lucas Nogueira,84.0,4.4,4.3,0.7,None,Brazil,TOR
+965,2017-18,Luis Montero,79.0,0.0,1.0,0.0,Westchester CC NY,Dominican Republic,DET
+966,2016-17,Luis Scola,81.0,5.1,3.9,1.0,None,Argentina,BKN
+967,2018-19,Luka Doncic,79.0,21.2,7.8,6.0,None,Slovenia,DAL
+968,2016-17,Luke Babbitt,81.0,4.8,2.1,0.5,Nevada,USA,MIA
+969,2017-18,Luke Babbitt,81.0,5.2,1.9,0.6,Nevada-Reno,USA,MIA
+970,2018-19,Luke Kennard,77.0,9.7,2.9,1.8,Duke,USA,DET
+971,2017-18,Luke Kennard,77.0,7.6,2.4,1.7,Duke,USA,DET
+972,2017-18,Luke Kornet,85.0,6.7,3.2,1.3,Vanderbilt,USA,NYK
+973,2018-19,Luke Kornet,85.0,7.0,2.9,1.2,Vanderbilt,USA,NYK
+974,2016-17,Luol Deng,81.0,7.6,5.3,1.3,Duke,United Kingdom,LAL
+975,2018-19,Luol Deng,81.0,7.1,3.3,0.8,Duke,United Kingdom,MIN
+976,2017-18,Luol Deng,81.0,2.0,0.0,1.0,Duke,United Kingdom,LAL
+977,2017-18,Malachi Richardson,78.0,3.4,1.3,0.5,Syracuse,USA,TOR
+978,2016-17,Malachi Richardson,78.0,3.6,1.0,0.5,Syracuse,USA,SAC
+979,2018-19,Malachi Richardson,78.0,1.4,0.6,0.0,Syracuse,USA,TOR
+980,2016-17,Malcolm Brogdon,77.0,10.2,2.8,4.2,Virginia,USA,MIL
+981,2018-19,Malcolm Brogdon,77.0,15.6,4.5,3.2,Virginia,USA,MIL
+982,2017-18,Malcolm Brogdon,77.0,13.0,3.3,3.2,Virginia,USA,MIL
+983,2016-17,Malcolm Delaney,75.0,5.4,1.7,2.6,Virginia Tech,USA,ATL
+984,2017-18,Malcolm Delaney,75.0,6.3,1.9,3.0,Virginia Tech,USA,ATL
+985,2018-19,Malcolm Miller,79.0,3.5,0.5,0.1,Holy Cross,USA,TOR
+986,2017-18,Malcolm Miller,79.0,2.5,1.0,0.2,Holy Cross,USA,TOR
+987,2017-18,Malik Beasley,77.0,3.2,1.1,0.5,Florida State,USA,DEN
+988,2018-19,Malik Beasley,77.0,11.3,2.5,1.2,Florida State,USA,DEN
+989,2016-17,Malik Beasley,77.0,3.8,0.8,0.5,Florida State,USA,DEN
+990,2017-18,Malik Monk,75.0,6.7,1.0,1.4,Kentucky,USA,CHA
+991,2018-19,Malik Monk,75.0,8.9,1.9,1.6,Kentucky,USA,CHA
+992,2017-18,Mangok Mathiang,82.0,2.0,2.5,0.0,Louisville,Australia,CHA
+993,2016-17,Manny Harris,77.0,2.0,2.3,0.5,Michigan,USA,DAL
+994,2017-18,Manu Ginobili,78.0,8.9,2.2,2.5,None,Argentina,SAS
+995,2016-17,Manu Ginobili,78.0,7.5,2.3,2.7,None,Argentina,SAS
+996,2017-18,MarShon Brooks,77.0,20.1,3.0,3.6,Providence,USA,MEM
+997,2018-19,MarShon Brooks,77.0,6.6,1.6,0.9,Providence,USA,MEM
+998,2018-19,Marc Gasol,85.0,13.6,7.9,4.4,None,Spain,TOR
+999,2017-18,Marc Gasol,85.0,17.2,8.1,4.2,None,Spain,MEM
+1000,2016-17,Marc Gasol,85.0,19.5,6.3,4.6,None,Spain,MEM
+1001,2016-17,Marcelo Huertas,75.0,2.7,1.0,2.3,None,Brazil,LAL
+1002,2018-19,Marcin Gortat,83.0,5.0,5.6,1.4,None,Poland,LAC
+1003,2017-18,Marcin Gortat,83.0,8.4,7.6,1.8,None,Poland,WAS
+1004,2016-17,Marcin Gortat,83.0,10.8,10.4,1.5,None,Poland,WAS
+1005,2016-17,Marco Belinelli,77.0,10.5,2.4,2.0,None,Italy,CHA
+1006,2017-18,Marco Belinelli,77.0,12.1,1.9,1.9,None,Italy,PHI
+1007,2018-19,Marco Belinelli,77.0,10.5,2.5,1.7,None,Italy,SAS
+1008,2018-19,Marcus Derrickson,79.0,4.2,1.2,0.1,None,USA,GSW
+1009,2016-17,Marcus Georges-Hunt,78.0,2.8,1.8,0.6,Georgia Tech,USA,ORL
+1010,2017-18,Marcus Georges-Hunt,77.0,1.4,0.4,0.2,Georgia Tech,USA,MIN
+1011,2016-17,Marcus Morris,81.0,14.0,4.6,2.0,Kansas,USA,DET
+1012,2017-18,Marcus Morris Sr.,81.0,13.6,5.4,1.3,Kansas,USA,BOS
+1013,2018-19,Marcus Morris Sr.,81.0,13.9,6.1,1.5,Kansas,USA,BOS
+1014,2017-18,Marcus Paige,72.0,2.4,0.8,0.6,North Carolina,USA,CHA
+1015,2016-17,Marcus Smart,76.0,10.6,3.9,4.6,Oklahoma State,USA,BOS
+1016,2017-18,Marcus Smart,76.0,10.2,3.5,4.8,Oklahoma State,USA,BOS
+1017,2018-19,Marcus Smart,76.0,8.9,2.9,4.0,Oklahoma State,USA,BOS
+1018,2016-17,Marcus Thornton,76.0,6.6,2.3,1.2,Louisiana State,USA,WAS
+1019,2017-18,Mario Chalmers,74.0,7.7,2.4,3.0,Kansas,USA,MEM
+1020,2018-19,Mario Hezonja,80.0,8.8,4.1,1.5,None,Croatia,NYK
+1021,2017-18,Mario Hezonja,80.0,9.6,3.7,1.4,None,Croatia,ORL
+1022,2016-17,Mario Hezonja,80.0,4.9,2.2,1.0,None,Croatia,ORL
+1023,2017-18,Markel Brown,75.0,1.3,1.3,0.5,Oklahoma State,USA,HOU
+1024,2017-18,Markelle Fultz,76.0,7.1,3.1,3.8,Washington,USA,PHI
+1025,2018-19,Markelle Fultz,76.0,8.2,3.7,3.1,Washington,USA,ORL
+1026,2017-18,Markieff Morris,82.0,11.5,5.6,1.9,Kansas,USA,WAS
+1027,2018-19,Markieff Morris,82.0,9.4,4.6,1.4,Kansas,USA,OKC
+1028,2016-17,Markieff Morris,82.0,14.0,6.5,1.7,Kansas,USA,WAS
+1029,2018-19,Marquese Chriss,82.0,4.2,3.3,0.5,Washington,USA,CLE
+1030,2017-18,Marquese Chriss,82.0,7.7,5.5,1.2,Washington,USA,PHX
+1031,2016-17,Marquese Chriss,82.0,9.2,4.2,0.7,Washington,USA,PHX
+1032,2017-18,Marquis Teague,74.0,3.7,2.0,4.3,Kentucky,USA,MEM
+1033,2017-18,Marreese Speights,82.0,7.7,2.6,0.8,Florida,USA,ORL
+1034,2016-17,Marreese Speights,82.0,8.7,4.5,0.8,Florida,USA,LAC
+1035,2017-18,Marshall Plumlee,84.0,1.8,2.1,0.3,Duke,USA,MIL
+1036,2016-17,Marshall Plumlee,84.0,1.9,2.4,0.5,Duke,USA,NYK
+1037,2018-19,Marvin Bagley III,83.0,14.9,7.6,1.0,Duke,USA,SAC
+1038,2016-17,Marvin Williams,81.0,11.2,6.6,1.4,North Carolina,USA,CHA
+1039,2017-18,Marvin Williams,81.0,9.5,4.7,1.2,North Carolina,USA,CHA
+1040,2018-19,Marvin Williams,81.0,10.1,5.4,1.2,North Carolina,USA,CHA
+1041,2016-17,Mason Plumlee,83.0,10.4,7.5,3.5,Duke,USA,DEN
+1042,2018-19,Mason Plumlee,83.0,7.8,6.4,3.0,Duke,USA,DEN
+1043,2017-18,Mason Plumlee,83.0,7.1,5.4,1.9,Duke,USA,DEN
+1044,2016-17,Matt Barnes,79.0,7.1,5.2,2.6,UCLA,USA,GSW
+1045,2017-18,Matt Costello,82.0,1.0,2.3,0.5,Michigan State,USA,SAS
+1046,2017-18,Matt Williams Jr.,77.0,1.7,0.3,0.0,Central Florida,USA,MIA
+1047,2016-17,Matthew Dellavedova,76.0,7.6,1.9,4.7,Saint Mary's (CA),Australia,MIL
+1048,2017-18,Matthew Dellavedova,76.0,4.3,1.7,3.8,St. Mary's (CA),Australia,MIL
+1049,2018-19,Matthew Dellavedova,76.0,5.9,1.6,3.8,St. Mary's (CA),Australia,CLE
+1050,2017-18,Maurice Harkless,81.0,6.5,2.7,0.9,"St. John's, N.Y.",USA,POR
+1051,2016-17,Maurice Harkless,81.0,10.0,4.4,1.1,St. John's (NY),USA,POR
+1052,2018-19,Maurice Harkless,81.0,7.7,4.5,1.2,"St. John's, N.Y.",USA,POR
+1053,2016-17,Maurice Ndour,81.0,3.1,2.0,0.3,Ohio U.,Senegal,NYK
+1054,2018-19,Maxi Kleber,83.0,6.8,4.6,1.0,None,Germany,DAL
+1055,2017-18,Maxi Kleber,83.0,5.4,3.3,0.7,None,Germany,DAL
+1056,2018-19,Melvin Frazier Jr.,78.0,1.5,0.5,0.1,Tulane,USA,ORL
+1057,2016-17,Metta World Peace,79.0,2.3,0.8,0.4,St. John's (NY),USA,LAL
+1058,2016-17,Meyers Leonard,85.0,5.4,3.2,1.0,Illinois,USA,POR
+1059,2017-18,Meyers Leonard,85.0,3.4,2.1,0.5,Illinois,USA,POR
+1060,2018-19,Meyers Leonard,85.0,5.9,3.8,1.2,Illinois,USA,POR
+1061,2016-17,Michael Beasley,82.0,9.4,3.4,0.9,Kansas State,USA,MIL
+1062,2018-19,Michael Beasley,81.0,7.0,2.3,1.0,Kansas State,USA,LAL
+1063,2017-18,Michael Beasley,81.0,13.2,5.6,1.7,Kansas State,USA,NYK
+1064,2018-19,Michael Carter-Williams,78.0,4.8,2.5,2.5,Syracuse,USA,ORL
+1065,2017-18,Michael Carter-Williams,78.0,4.6,2.7,2.2,Syracuse,USA,CHA
+1066,2016-17,Michael Carter-Williams,78.0,6.6,3.4,2.5,Syracuse,USA,CHI
+1067,2016-17,Michael Gbinije,79.0,0.4,0.3,0.2,Syracuse,USA,DET
+1068,2017-18,Michael Kidd-Gilchrist,79.0,9.2,4.1,1.0,Kentucky,USA,CHA
+1069,2018-19,Michael Kidd-Gilchrist,79.0,6.7,3.8,1.0,Kentucky,USA,CHA
+1070,2016-17,Michael Kidd-Gilchrist,79.0,9.2,7.0,1.4,Kentucky,USA,CHA
+1071,2018-19,Mikal Bridges,79.0,8.3,3.2,2.1,Villanova,USA,PHX
+1072,2017-18,Mike Conley,73.0,17.1,2.3,4.1,Ohio State,USA,MEM
+1073,2018-19,Mike Conley,73.0,21.1,3.4,6.4,Ohio State,USA,MEM
+1074,2016-17,Mike Conley,73.0,20.5,3.5,6.3,Ohio State,USA,MEM
+1075,2016-17,Mike Dunleavy,81.0,5.2,2.2,0.9,Duke,USA,ATL
+1076,2017-18,Mike James,73.0,9.3,2.5,3.5,Lamar,USA,PHX
+1077,2016-17,Mike Miller,80.0,1.4,1.9,1.1,Florida,USA,DEN
+1078,2016-17,Mike Muscala,83.0,6.2,3.4,1.4,Bucknell,USA,ATL
+1079,2017-18,Mike Muscala,83.0,7.6,4.3,1.0,Bucknell,USA,ATL
+1080,2018-19,Mike Muscala,83.0,7.0,3.8,1.2,Bucknell,USA,LAL
+1081,2017-18,Mike Scott,80.0,8.8,3.3,1.1,Virginia,USA,WAS
+1082,2018-19,Mike Scott,80.0,5.8,3.5,0.8,Virginia,USA,PHI
+1083,2016-17,Mike Scott,80.0,2.5,2.1,0.9,Virginia,USA,ATL
+1084,2016-17,Mike Tobey,84.0,1.0,1.5,0.5,Virginia,USA,CHA
+1085,2018-19,Miles Bridges,79.0,7.5,4.0,1.2,Michigan State,USA,CHA
+1086,2016-17,Miles Plumlee,83.0,2.5,2.1,0.5,Duke,USA,CHA
+1087,2018-19,Miles Plumlee,83.0,4.4,2.2,0.9,Duke,USA,ATL
+1088,2017-18,Miles Plumlee,83.0,4.3,4.1,0.8,Duke,USA,ATL
+1089,2018-19,Milos Teodosic,77.0,3.2,1.1,2.1,None,Serbia,LAC
+1090,2017-18,Milos Teodosic,77.0,9.5,2.8,4.6,None,Serbia,LAC
+1091,2017-18,Milton Doyle,76.0,3.4,1.8,1.0,Loyola (IL),USA,BKN
+1092,2016-17,Mindaugas Kuzminskas,81.0,6.3,1.9,1.0,None,Lithuania,NYK
+1093,2017-18,Mindaugas Kuzminskas,81.0,0.0,0.0,0.0,None,Lithuania,NYK
+1094,2017-18,Mirza Teletovic,81.0,7.1,2.3,1.0,None,Bosnia and Herzegovina,MIL
+1095,2016-17,Mirza Teletovic,81.0,6.4,2.3,0.7,None,Bosnia,MIL
+1096,2018-19,Mitchell Creek,78.0,4.2,2.4,1.2,None,Australia,MIN
+1097,2018-19,Mitchell Robinson,85.0,7.3,6.4,0.6,None,USA,NYK
+1098,2018-19,Mo Bamba,84.0,6.2,5.0,0.8,University of Texas at Austin,USA,ORL
+1099,2016-17,Monta Ellis,75.0,8.5,2.8,3.2,None,USA,IND
+1100,2018-19,Monte Morris,75.0,10.4,2.4,3.6,Iowa State,USA,DEN
+1101,2017-18,Monte Morris,75.0,3.3,0.7,2.3,Iowa State,USA,DEN
+1102,2018-19,Montrezl Harrell,80.0,16.6,6.5,2.0,Louisville,USA,LAC
+1103,2016-17,Montrezl Harrell,80.0,9.1,3.8,1.1,Louisville,USA,HOU
+1104,2017-18,Montrezl Harrell,80.0,11.0,4.0,1.0,Louisville,USA,LAC
+1105,2018-19,Moritz Wagner,83.0,4.8,2.0,0.6,Michigan,Germany,LAL
+1106,2017-18,Myke Henry,78.0,5.4,1.9,1.1,None,USA,MEM
+1107,2016-17,Myles Turner,83.0,14.5,7.3,1.3,Texas,USA,IND
+1108,2018-19,Myles Turner,83.0,13.3,7.2,1.6,Texas,USA,IND
+1109,2017-18,Myles Turner,83.0,12.7,6.4,1.3,Texas,USA,IND
+1110,2017-18,Nate Wolters,76.0,0.4,0.4,0.2,South Dakota State,USA,UTA
+1111,2018-19,Naz Mitrou-Long,76.0,1.1,0.4,1.1,Iowa State,Canada,UTA
+1112,2017-18,Naz Mitrou-Long,76.0,3.0,0.0,0.0,Iowa State,Canada,UTA
+1113,2016-17,Nemanja Bjelica,82.0,6.2,3.8,1.2,None,Serbia,MIN
+1114,2017-18,Nemanja Bjelica,82.0,6.8,4.1,1.3,None,Serbia,MIN
+1115,2018-19,Nemanja Bjelica,82.0,9.6,5.8,1.9,None,Serbia,SAC
+1116,2016-17,Nene,83.0,9.1,4.2,1.0,None,Brazil,HOU
+1117,2017-18,Nene,83.0,6.5,3.4,0.9,None,Brazil,HOU
+1118,2018-19,Nene,83.0,3.6,2.9,0.6,None,Brazil,HOU
+1119,2017-18,Nerlens Noel,83.0,4.4,5.6,0.7,Kentucky,USA,DAL
+1120,2016-17,Nerlens Noel,83.0,8.7,5.8,1.0,Kentucky,USA,DAL
+1121,2018-19,Nerlens Noel,83.0,4.9,4.2,0.6,Kentucky,USA,OKC
+1122,2016-17,Nick Collison,82.0,1.7,1.6,0.6,Kansas,USA,OKC
+1123,2017-18,Nick Collison,82.0,2.1,1.3,0.3,Kansas,USA,OKC
+1124,2017-18,Nick Young,79.0,7.3,1.6,0.5,USC,USA,GSW
+1125,2016-17,Nick Young,79.0,13.2,2.3,1.0,Southern California,USA,LAL
+1126,2018-19,Nick Young,79.0,2.3,0.3,0.5,USC,USA,DEN
+1127,2018-19,Nicolas Batum,80.0,9.3,5.2,3.3,None,France,CHA
+1128,2017-18,Nicolas Batum,80.0,11.6,4.8,5.5,None,France,CHA
+1129,2016-17,Nicolas Batum,80.0,15.1,6.2,5.9,None,France,CHA
+1130,2017-18,Nicolas Brussino,80.0,0.0,0.8,0.0,None,Argentina,ATL
+1131,2016-17,Nicolas Brussino,80.0,2.8,1.8,0.9,None,Argentina,DAL
+1132,2016-17,Nicolas Laprovittola,76.0,3.3,0.6,1.6,None,Argentina,SAS
+1133,2017-18,Nigel Hayes,79.0,3.0,2.4,0.7,Wisconsin,USA,SAC
+1134,2016-17,Nik Stauskas,78.0,9.5,2.8,2.4,Michigan,Canada,PHI
+1135,2017-18,Nik Stauskas,78.0,4.4,1.6,1.0,Michigan,Canada,BKN
+1136,2018-19,Nik Stauskas,78.0,5.9,1.9,1.2,Michigan,Canada,CLE
+1137,2017-18,Nikola Jokic,82.0,18.5,10.7,6.1,None,Serbia,DEN
+1138,2016-17,Nikola Jokic,82.0,16.7,9.8,4.9,None,Serbia,DEN
+1139,2018-19,Nikola Jokic,84.0,20.1,10.8,7.3,None,Serbia,DEN
+1140,2016-17,Nikola Mirotic,82.0,10.6,5.5,1.1,None,Montenegro,CHI
+1141,2017-18,Nikola Mirotic,82.0,15.6,7.4,1.5,None,Montenegro,NOP
+1142,2018-19,Nikola Mirotic,82.0,15.2,7.4,1.2,None,Montenegro,MIL
+1143,2017-18,Nikola Vucevic,84.0,16.5,9.2,3.4,USC,Montenegro,ORL
+1144,2018-19,Nikola Vucevic,84.0,20.8,12.0,3.8,USC,Montenegro,ORL
+1145,2016-17,Nikola Vucevic,84.0,14.6,10.4,2.8,Southern California,Montenegro,ORL
+1146,2018-19,Noah Vonleh,81.0,8.4,7.8,1.9,Indiana,USA,NYK
+1147,2017-18,Noah Vonleh,81.0,4.9,5.8,0.6,Indiana,USA,CHI
+1148,2016-17,Noah Vonleh,81.0,4.4,5.2,0.4,Indiana,USA,POR
+1149,2017-18,Norman Powell,76.0,5.5,1.7,1.3,UCLA,USA,TOR
+1150,2018-19,Norman Powell,76.0,8.6,2.3,1.5,UCLA,USA,TOR
+1151,2016-17,Norman Powell,76.0,8.4,2.2,1.1,UCLA,USA,TOR
+1152,2016-17,Norris Cole,74.0,3.3,0.8,1.1,Cleveland State,USA,OKC
+1153,2018-19,OG Anunoby,80.0,7.0,2.9,0.7,Indiana,United Kingdom,TOR
+1154,2017-18,OG Anunoby,80.0,5.9,2.5,0.7,Indiana,United Kingdom,TOR
+1155,2017-18,Okaro White,80.0,3.3,1.8,0.3,Florida State,USA,CLE
+1156,2018-19,Okaro White,80.0,0.0,0.7,0.0,Florida State,USA,WAS
+1157,2016-17,Okaro White,80.0,2.8,2.3,0.6,Florida State,USA,MIA
+1158,2017-18,Omari Johnson,81.0,5.5,2.8,1.8,Oregon State,Jamaica,MEM
+1159,2018-19,Omari Spellman,81.0,5.9,4.2,1.0,Villanova,USA,ATL
+1160,2017-18,Omer Asik,84.0,1.2,2.6,0.2,None,Turkey,CHI
+1161,2016-17,Omer Asik,84.0,2.7,5.3,0.5,None,Turkey,NOP
+1162,2016-17,Omri Casspi,81.0,5.2,3.1,1.0,None,Israel,MIN
+1163,2017-18,Omri Casspi,81.0,5.7,3.8,1.0,None,Israel,GSW
+1164,2018-19,Omri Casspi,81.0,6.3,3.2,0.7,None,Israel,MEM
+1165,2016-17,Otto Porter Jr.,80.0,13.4,6.4,1.5,Georgetown,USA,WAS
+1166,2017-18,Otto Porter Jr.,80.0,14.7,6.4,2.0,Georgetown,USA,WAS
+1167,2018-19,Otto Porter Jr.,80.0,13.9,5.6,2.1,Georgetown,USA,CHI
+1168,2017-18,P.J. Tucker,78.0,6.1,5.6,0.9,Texas,USA,HOU
+1169,2018-19,P.J. Tucker,78.0,7.3,5.8,1.2,Texas,USA,HOU
+1170,2018-19,PJ Dozier,78.0,3.2,2.8,0.8,South Carolina,USA,BOS
+1171,2017-18,PJ Dozier,78.0,1.0,0.5,0.0,South Carolina,USA,OKC
+1172,2016-17,PJ Tucker,78.0,6.7,5.8,1.2,Texas,USA,TOR
+1173,2016-17,Pascal Siakam,81.0,4.2,3.4,0.3,New Mexico State,Cameroon,TOR
+1174,2017-18,Pascal Siakam,81.0,7.3,4.5,2.0,New Mexico State,Cameroon,TOR
+1175,2018-19,Pascal Siakam,81.0,16.9,6.9,3.1,New Mexico State,Cameroon,TOR
+1176,2018-19,Pat Connaughton,76.0,6.9,4.2,2.0,Notre Dame,USA,MIL
+1177,2017-18,Pat Connaughton,77.0,5.4,2.0,1.1,Notre Dame,USA,POR
+1178,2016-17,Pat Connaughton,77.0,2.5,1.3,0.7,Notre Dame,USA,POR
+1179,2016-17,Patricio Garino,78.0,0.0,1.4,0.0,George Washington,Argentina,ORL
+1180,2017-18,Patrick Beverley,73.0,12.2,4.1,2.9,None,USA,LAC
+1181,2016-17,Patrick Beverley,73.0,9.5,5.9,4.2,Arkansas,USA,HOU
+1182,2018-19,Patrick Beverley,73.0,7.6,5.0,3.8,None,USA,LAC
+1183,2016-17,Patrick McCaw,79.0,4.0,1.4,1.1,Nevada-Las Vegas,USA,GSW
+1184,2017-18,Patrick McCaw,79.0,4.0,1.4,1.4,UNLV,USA,GSW
+1185,2018-19,Patrick McCaw,79.0,2.6,1.7,1.0,UNLV,USA,TOR
+1186,2017-18,Patrick Patterson,81.0,3.9,2.4,0.7,Kentucky,USA,OKC
+1187,2018-19,Patrick Patterson,81.0,3.6,2.3,0.5,Kentucky,USA,OKC
+1188,2016-17,Patrick Patterson,81.0,6.8,4.5,1.2,Kentucky,USA,TOR
+1189,2018-19,Patty Mills,72.0,9.9,2.2,3.0,St. Mary's (CA),Australia,SAS
+1190,2016-17,Patty Mills,72.0,9.5,1.8,3.5,Saint Mary's (CA),Australia,SAS
+1191,2017-18,Patty Mills,72.0,10.0,1.9,2.8,St. Mary's (CA),Australia,SAS
+1192,2017-18,Pau Gasol,84.0,10.1,8.0,3.1,None,Spain,SAS
+1193,2016-17,Pau Gasol,84.0,12.4,7.8,2.3,None,Spain,SAS
+1194,2018-19,Pau Gasol,84.0,3.9,4.6,1.7,None,Spain,MIL
+1195,2018-19,Paul George,81.0,28.0,8.2,4.1,Fresno State,USA,OKC
+1196,2016-17,Paul George,81.0,23.7,6.6,3.3,Fresno State,USA,IND
+1197,2017-18,Paul George,81.0,21.9,5.7,3.3,Fresno State,USA,OKC
+1198,2018-19,Paul Millsap,80.0,12.6,7.2,2.0,Louisiana Tech,USA,DEN
+1199,2016-17,Paul Millsap,80.0,18.1,7.7,3.7,Louisiana Tech,USA,ATL
+1200,2017-18,Paul Millsap,80.0,14.6,6.4,2.8,Louisiana Tech,USA,DEN
+1201,2016-17,Paul Pierce,79.0,3.2,1.9,0.4,Kansas,USA,LAC
+1202,2016-17,Paul Zipser,80.0,5.5,2.8,0.8,None,Germany,CHI
+1203,2017-18,Paul Zipser,80.0,4.0,2.4,0.9,None,Germany,CHI
+1204,2016-17,Pierre Jackson,70.0,4.4,1.1,2.4,Baylor,USA,DAL
+1205,2017-18,Quincy Acy,79.0,5.9,3.7,0.8,Baylor,USA,BKN
+1206,2018-19,Quincy Acy,79.0,1.7,2.5,0.8,Baylor,USA,PHX
+1207,2016-17,Quincy Acy,79.0,5.8,3.0,0.5,Baylor,USA,BKN
+1208,2018-19,Quincy Pondexter,79.0,1.8,0.9,0.5,Washington,USA,SAS
+1209,2017-18,Quincy Pondexter,79.0,2.0,1.2,0.4,Washington,USA,CHI
+1210,2018-19,Quinn Cook,74.0,6.9,2.1,1.6,Duke,USA,GSW
+1211,2016-17,Quinn Cook,74.0,5.6,0.5,1.9,Duke,USA,NOP
+1212,2017-18,Quinn Cook,74.0,9.5,2.5,2.7,Duke,USA,GSW
+1213,2018-19,RJ Hunter,77.0,17.0,3.0,3.0,Georgia State,USA,BOS
+1214,2016-17,RJ Hunter,77.0,0.0,0.3,0.0,Georgia State,USA,CHI
+1215,2017-18,RJ Hunter,77.0,3.8,1.0,0.6,Georgia State,USA,HOU
+1216,2016-17,Rajon Rondo,73.0,7.8,5.1,6.7,Kentucky,USA,CHI
+1217,2018-19,Rajon Rondo,73.0,9.2,5.3,8.0,Kentucky,USA,LAL
+1218,2017-18,Rajon Rondo,73.0,8.3,4.0,8.2,Kentucky,USA,NOP
+1219,2016-17,Rakeem Christmas,81.0,2.0,1.9,0.1,Syracuse,USA,IND
+1220,2017-18,Ramon Sessions,75.0,4.9,1.4,2.8,Nevada-Reno,USA,WAS
+1221,2016-17,Ramon Sessions,75.0,6.2,1.5,2.6,Nevada,USA,CHA
+1222,2016-17,Randy Foye,76.0,5.2,2.2,2.0,Villanova,USA,BKN
+1223,2017-18,Rashad Vaughn,78.0,2.3,0.8,0.5,Nevada-Las Vegas,USA,MIL
+1224,2016-17,Rashad Vaughn,78.0,3.5,1.2,0.6,UNLV,USA,MIL
+1225,2016-17,Raul Neto,73.0,2.5,0.8,0.9,None,Brazil,UTA
+1226,2018-19,Raul Neto,73.0,5.3,1.7,2.5,None,Brazil,UTA
+1227,2017-18,Raul Neto,73.0,4.5,1.2,1.8,None,Brazil,UTA
+1228,2018-19,Rawle Alkins,77.0,3.7,2.6,1.3,None,USA,CHI
+1229,2018-19,Ray Spalding,82.0,3.9,3.4,0.4,Louisville,USA,PHX
+1230,2016-17,Raymond Felton,73.0,6.7,2.7,2.4,North Carolina,USA,LAC
+1231,2018-19,Raymond Felton,73.0,4.3,1.0,1.6,North Carolina,USA,OKC
+1232,2017-18,Raymond Felton,73.0,6.9,1.9,2.5,North Carolina,USA,OKC
+1233,2016-17,Reggie Bullock,79.0,4.5,2.1,0.9,North Carolina,USA,DET
+1234,2017-18,Reggie Bullock,79.0,11.3,2.5,1.5,North Carolina,USA,DET
+1235,2018-19,Reggie Bullock,79.0,11.3,2.7,2.0,North Carolina,USA,LAL
+1236,2017-18,Reggie Hearn,77.0,1.0,0.0,0.0,Northwestern,USA,DET
+1237,2016-17,Reggie Jackson,75.0,14.5,2.2,5.2,Boston College,USA,DET
+1238,2017-18,Reggie Jackson,75.0,14.6,2.8,5.3,Boston College,USA,DET
+1239,2018-19,Reggie Jackson,75.0,15.4,2.6,4.2,Boston College,USA,DET
+1240,2016-17,Reggie Williams,79.13385826771653,4.5,1.0,0.7,Virginia Military Institute,USA,NOP
+1241,2017-18,Richard Jefferson,79.0,1.5,0.9,0.8,Arizona,USA,DEN
+1242,2016-17,Richard Jefferson,79.0,5.7,2.6,1.0,Arizona,USA,CLE
+1243,2018-19,Richaun Holmes,82.0,8.2,4.7,0.9,Bowling Green,USA,PHX
+1244,2016-17,Richaun Holmes,82.0,9.8,5.5,1.0,Bowling Green,USA,PHI
+1245,2017-18,Richaun Holmes,82.0,6.5,4.4,1.3,Bowling Green,USA,PHI
+1246,2017-18,Ricky Rubio,76.0,13.1,4.6,5.3,None,Spain,UTA
+1247,2016-17,Ricky Rubio,76.0,11.1,4.1,9.1,None,Spain,MIN
+1248,2018-19,Ricky Rubio,76.0,12.7,3.6,6.1,None,Spain,UTA
+1249,2018-19,Robert Covington,81.0,13.3,5.5,1.3,Tennessee State,USA,MIN
+1250,2016-17,Robert Covington,81.0,12.9,6.5,1.5,Tennessee State,USA,PHI
+1251,2017-18,Robert Covington,81.0,12.6,5.4,2.0,Tennessee State,USA,PHI
+1252,2018-19,Robert Williams III,82.0,2.5,2.5,0.2,Texas A&M,USA,BOS
+1253,2018-19,Robin Lopez,84.0,9.5,3.9,1.2,Stanford,USA,CHI
+1254,2016-17,Robin Lopez,84.0,10.4,6.4,1.0,Stanford,USA,CHI
+1255,2017-18,Robin Lopez,84.0,11.8,4.5,1.9,Stanford,USA,CHI
+1256,2018-19,Rodions Kurucs,81.0,8.5,3.9,0.8,None,Latvia,BKN
+1257,2017-18,Rodney Hood,80.0,14.7,2.8,1.6,Duke,USA,CLE
+1258,2018-19,Rodney Hood,80.0,11.2,2.2,1.8,Duke,USA,POR
+1259,2016-17,Rodney Hood,80.0,12.7,3.4,1.6,Duke,USA,UTA
+1260,2017-18,Rodney McGruder,76.0,5.1,1.8,0.9,Kansas State,USA,MIA
+1261,2016-17,Rodney McGruder,76.0,6.4,3.3,1.6,Kansas State,USA,MIA
+1262,2018-19,Rodney McGruder,76.0,7.6,3.6,1.7,Kansas State,USA,LAC
+1263,2017-18,Rodney Purvis,76.0,6.0,1.7,1.1,Connecticut,USA,ORL
+1264,2016-17,Rodney Stuckey,77.0,7.2,2.2,2.2,Eastern Washington,USA,IND
+1265,2017-18,Ron Baker,76.0,2.4,1.0,1.6,Wichita State,USA,NYK
+1266,2018-19,Ron Baker,76.0,0.9,0.7,1.0,Wichita State,USA,WAS
+1267,2016-17,Ron Baker,76.0,4.1,1.9,2.1,Wichita State,USA,NYK
+1268,2018-19,Rondae Hollis-Jefferson,79.0,8.9,5.3,1.6,Arizona,USA,BKN
+1269,2016-17,Rondae Hollis-Jefferson,79.0,8.7,5.8,2.0,Arizona,USA,BKN
+1270,2017-18,Rondae Hollis-Jefferson,79.0,13.9,6.8,2.5,Arizona,USA,BKN
+1271,2016-17,Ronnie Price,74.0,1.0,0.8,1.3,Utah Valley,USA,PHX
+1272,2016-17,Roy Hibbert,86.0,4.6,3.2,0.4,Georgetown,USA,DEN
+1273,2018-19,Royce O'Neale,78.0,5.2,3.5,1.5,Baylor,USA,UTA
+1274,2017-18,Royce O'Neale,78.0,5.0,3.4,1.4,Baylor,USA,UTA
+1275,2016-17,Rudy Gay,80.0,18.7,6.3,2.8,Connecticut,USA,SAC
+1276,2017-18,Rudy Gay,80.0,11.5,5.1,1.3,Connecticut,USA,SAS
+1277,2018-19,Rudy Gay,80.0,13.7,6.8,2.6,Connecticut,USA,SAS
+1278,2016-17,Rudy Gobert,85.0,14.0,12.8,1.2,None,France,UTA
+1279,2017-18,Rudy Gobert,85.0,13.5,10.7,1.4,None,France,UTA
+1280,2018-19,Rudy Gobert,85.0,15.9,12.9,2.0,None,France,UTA
+1281,2017-18,Russell Westbrook,75.0,25.4,10.1,10.3,UCLA,USA,OKC
+1282,2018-19,Russell Westbrook,75.0,22.9,11.1,10.7,UCLA,USA,OKC
+1283,2016-17,Russell Westbrook,75.0,31.6,10.7,10.4,UCLA,USA,OKC
+1284,2017-18,Ryan Anderson,82.0,9.3,5.0,0.9,California,USA,HOU
+1285,2018-19,Ryan Anderson,82.0,2.5,2.2,0.8,California,USA,MIA
+1286,2016-17,Ryan Anderson,82.0,13.6,4.6,0.9,California,USA,HOU
+1287,2017-18,Ryan Arcidiacono,75.0,2.0,1.0,1.5,Villanova,USA,CHI
+1288,2018-19,Ryan Arcidiacono,75.0,6.7,2.7,3.3,Villanova,USA,CHI
+1289,2018-19,Ryan Broekhoff,79.0,4.0,1.5,0.5,None,Australia,DAL
+1290,2016-17,Ryan Kelly,83.0,1.6,1.1,0.5,Duke,USA,ATL
+1291,2016-17,Salah Mejri,86.0,2.9,4.2,0.2,None,Tunisia,DAL
+1292,2018-19,Salah Mejri,86.0,3.9,3.6,1.0,None,Tunisia,DAL
+1293,2017-18,Salah Mejri,86.0,3.5,4.0,0.6,None,Tunisia,DAL
+1294,2018-19,Sam Dekker,81.0,6.1,3.1,1.0,Wisconsin,USA,WAS
+1295,2016-17,Sam Dekker,81.0,6.5,3.7,1.0,Wisconsin,USA,HOU
+1296,2017-18,Sam Dekker,81.0,4.2,2.4,0.5,Wisconsin,USA,LAC
+1297,2016-17,Sasha Vujacic,79.0,3.0,1.4,1.2,None,Slovenia,NYK
+1298,2018-19,Scott Machado,73.0,2.5,0.0,0.8,Iona,USA,LAL
+1299,2017-18,Scotty Hopson,79.0,1.0,0.0,1.0,Tennessee,USA,DAL
+1300,2016-17,Sean Kilpatrick,76.0,13.1,4.0,2.2,Cincinnati,USA,BKN
+1301,2017-18,Sean Kilpatrick,76.0,6.3,1.7,0.9,Cincinnati,USA,CHI
+1302,2016-17,Semaj Christon,75.0,2.9,1.4,2.0,Xavier,USA,OKC
+1303,2017-18,Semi Ojeleye,79.0,2.7,2.2,0.3,Southern Methodist,USA,BOS
+1304,2018-19,Semi Ojeleye,79.0,3.3,1.5,0.4,Southern Methodist,USA,BOS
+1305,2018-19,Serge Ibaka,82.0,15.0,8.1,1.3,None,Democratic Republic of the Congo,TOR
+1306,2017-18,Serge Ibaka,82.0,12.6,6.3,0.8,None,Democratic Republic of the Congo,TOR
+1307,2016-17,Serge Ibaka,82.0,14.8,6.8,0.9,None,Democratic Republic of the Congo,TOR
+1308,2016-17,Sergio Rodriguez,75.0,7.8,2.3,5.1,None,Spain,PHI
+1309,2016-17,Seth Curry,74.0,12.8,2.6,2.7,Duke,USA,DAL
+1310,2018-19,Seth Curry,74.0,7.9,1.6,0.9,Duke,USA,POR
+1311,2016-17,Shabazz Muhammad,78.0,9.9,2.8,0.4,UCLA,USA,MIN
+1312,2017-18,Shabazz Muhammad,78.0,5.0,1.8,0.3,California-Los Angeles,USA,MIL
+1313,2018-19,Shabazz Napier,73.0,9.4,1.8,2.6,Connecticut,USA,BKN
+1314,2017-18,Shabazz Napier,73.0,8.7,2.3,2.0,Connecticut,USA,POR
+1315,2016-17,Shabazz Napier,73.0,4.1,1.2,1.3,Connecticut,USA,POR
+1316,2018-19,Shai Gilgeous-Alexander,78.0,10.8,2.8,3.3,Kentucky,Canada,LAC
+1317,2018-19,Shake Milton,78.0,4.4,1.8,0.9,Southern Methodist,USA,PHI
+1318,2017-18,Shane Larkin,71.0,4.3,1.7,1.8,Miami,USA,BOS
+1319,2018-19,Shaquille Harrison,76.0,6.5,3.0,1.9,Tulsa,USA,CHI
+1320,2017-18,Shaquille Harrison,76.0,6.6,2.7,2.4,Tulsa,USA,PHX
+1321,2018-19,Shaun Livingston,79.0,4.0,1.8,1.8,None,USA,GSW
+1322,2016-17,Shaun Livingston,79.0,5.1,2.0,1.8,None,USA,GSW
+1323,2017-18,Shaun Livingston,79.0,5.5,1.8,2.0,None,USA,GSW
+1324,2016-17,Shawn Long,81.0,8.2,4.7,0.7,Louisiana-Lafayette,USA,PHI
+1325,2016-17,Sheldon Mac,78.0,3.0,1.1,0.5,Miami (Fla.),USA,WAS
+1326,2016-17,Shelvin Mack,75.0,7.8,2.3,2.8,Butler,USA,UTA
+1327,2017-18,Shelvin Mack,75.0,6.9,2.4,3.9,Butler,USA,ORL
+1328,2018-19,Shelvin Mack,75.0,7.5,1.8,3.2,Butler,USA,CHA
+1329,2017-18,Sindarius Thornwell,77.0,3.9,1.9,0.9,South Carolina,USA,LAC
+1330,2018-19,Sindarius Thornwell,77.0,1.0,0.7,0.3,South Carolina,USA,LAC
+1331,2017-18,Skal Labissiere,83.0,8.7,4.8,1.2,Kentucky,Haiti,SAC
+1332,2016-17,Skal Labissiere,83.0,8.8,4.9,0.8,Kentucky,Haiti,SAC
+1333,2018-19,Skal Labissiere,83.0,3.0,2.0,0.5,Kentucky,Haiti,POR
+1334,2017-18,Solomon Hill,79.0,2.4,3.0,1.8,Arizona,USA,NOP
+1335,2018-19,Solomon Hill,79.0,4.3,3.0,1.3,Arizona,USA,NOP
+1336,2016-17,Solomon Hill,79.0,7.0,3.8,1.8,Arizona,USA,NOP
+1337,2018-19,Spencer Dinwiddie,78.0,16.8,2.4,4.6,Colorado,USA,BKN
+1338,2017-18,Spencer Dinwiddie,78.0,12.6,3.2,6.6,Colorado,USA,BKN
+1339,2016-17,Spencer Dinwiddie,78.0,7.3,2.8,3.1,Colorado,USA,BKN
+1340,2016-17,Spencer Hawes,85.0,6.2,3.5,1.5,Washington,USA,MIL
+1341,2017-18,Stanley Johnson,79.0,8.7,3.7,1.6,Arizona,USA,DET
+1342,2016-17,Stanley Johnson,79.0,4.4,2.5,1.4,Arizona,USA,DET
+1343,2018-19,Stanley Johnson,79.0,6.9,3.3,1.3,Arizona,USA,NOP
+1344,2017-18,Stephen Curry,75.0,26.4,5.1,6.1,Davidson,USA,GSW
+1345,2016-17,Stephen Curry,75.0,25.3,4.5,6.6,Davidson,USA,GSW
+1346,2018-19,Stephen Curry,75.0,27.3,5.3,5.2,Davidson,USA,GSW
+1347,2016-17,Stephen Zimmerman,84.0,1.2,1.8,0.2,Nevada-Las Vegas,USA,ORL
+1348,2017-18,Sterling Brown,78.0,4.0,2.6,0.5,Southern Methodist,USA,MIL
+1349,2018-19,Sterling Brown,78.0,6.4,3.2,1.4,Southern Methodist,USA,MIL
+1350,2016-17,Steve Novak,82.0,0.6,0.4,0.0,Marquette,USA,MIL
+1351,2018-19,Steven Adams,84.0,13.9,9.5,1.6,Pittsburgh,New Zealand,OKC
+1352,2016-17,Steven Adams,84.0,11.3,7.7,1.1,Pittsburgh,New Zealand,OKC
+1353,2017-18,Steven Adams,84.0,13.9,9.0,1.2,Pittsburgh,New Zealand,OKC
+1354,2018-19,Svi Mykhailiuk,80.0,3.2,0.9,0.9,Kansas,Ukraine,DET
+1355,2016-17,T.J. McConnell,74.0,6.9,3.1,6.6,Arizona,USA,PHI
+1356,2017-18,T.J. McConnell,74.0,6.3,3.0,4.0,Arizona,USA,PHI
+1357,2018-19,T.J. McConnell,74.0,6.4,2.3,3.4,Arizona,USA,PHI
+1358,2017-18,T.J. Warren,80.0,19.6,5.1,1.3,North Carolina State,USA,PHX
+1359,2018-19,T.J. Warren,80.0,18.0,4.0,1.5,North Carolina State,USA,PHX
+1360,2017-18,TJ Leaf,82.0,2.9,1.5,0.2,UCLA,USA,IND
+1361,2018-19,TJ Leaf,82.0,3.9,2.2,0.4,UCLA,USA,IND
+1362,2016-17,TJ Warren,80.0,14.4,5.1,1.1,North Carolina State,USA,PHX
+1363,2018-19,Tahjere McCall,77.0,4.0,1.0,0.0,Tennessee State,USA,BKN
+1364,2017-18,Taj Gibson,81.0,12.2,7.1,1.2,USC,USA,MIN
+1365,2016-17,Taj Gibson,81.0,10.8,6.2,0.9,Southern California,USA,OKC
+1366,2018-19,Taj Gibson,81.0,10.8,6.5,1.2,USC,USA,MIN
+1367,2016-17,Tarik Black,81.0,5.7,5.1,0.6,Kansas,USA,LAL
+1368,2017-18,Tarik Black,81.0,3.5,3.2,0.3,Kansas,USA,HOU
+1369,2018-19,Taurean Prince,80.0,13.5,3.6,2.1,Baylor,USA,ATL
+1370,2017-18,Taurean Prince,80.0,14.1,4.7,2.6,Baylor,USA,ATL
+1371,2016-17,Taurean Prince,80.0,5.7,2.7,0.9,Baylor,USA,ATL
+1372,2017-18,Terrance Ferguson,79.0,3.1,0.8,0.3,None,USA,OKC
+1373,2018-19,Terrance Ferguson,79.0,6.9,1.9,1.0,None,USA,OKC
+1374,2016-17,Terrence Jones,81.0,10.8,5.7,1.1,Kentucky,USA,MIL
+1375,2018-19,Terrence Jones,81.0,1.0,2.0,0.0,Kentucky,USA,HOU
+1376,2016-17,Terrence Ross,79.0,11.0,2.6,1.1,Washington,USA,ORL
+1377,2018-19,Terrence Ross,79.0,15.1,3.5,1.7,Washington,USA,ORL
+1378,2017-18,Terrence Ross,79.0,8.7,3.0,1.6,Washington,USA,ORL
+1379,2017-18,Terry Rozier,74.0,11.3,4.7,2.9,Louisville,USA,BOS
+1380,2016-17,Terry Rozier,74.0,5.5,3.1,1.8,Louisville,USA,BOS
+1381,2018-19,Terry Rozier,73.0,9.0,3.9,2.9,Louisville,USA,BOS
+1382,2017-18,Thabo Sefolosha,79.0,8.2,4.2,0.9,None,Switzerland,UTA
+1383,2018-19,Thabo Sefolosha,79.0,3.8,2.5,0.5,None,Switzerland,UTA
+1384,2016-17,Thabo Sefolosha,79.0,7.2,4.4,1.7,None,Switzerland,ATL
+1385,2016-17,Thaddeus Young,80.0,11.0,6.1,1.6,Georgia Tech,USA,IND
+1386,2018-19,Thaddeus Young,80.0,12.6,6.5,2.5,Georgia Tech,USA,IND
+1387,2017-18,Thaddeus Young,80.0,11.8,6.3,1.9,Georgia Tech,USA,IND
+1388,2018-19,Theo Pinson,78.0,4.5,2.0,1.2,None,USA,BKN
+1389,2018-19,Thomas Bryant,83.0,10.5,6.3,1.3,Indiana,USA,WAS
+1390,2017-18,Thomas Bryant,82.0,1.5,1.1,0.4,Indiana,USA,LAL
+1391,2016-17,Thomas Robinson,82.0,5.0,4.6,0.6,Kansas,USA,LAL
+1392,2018-19,Thomas Welsh,84.0,1.6,0.4,0.5,UCLA,USA,DEN
+1393,2016-17,Thon Maker,85.0,4.0,2.0,0.4,None,South Sudan,MIL
+1394,2017-18,Thon Maker,85.0,4.8,3.0,0.6,None,South Sudan,MIL
+1395,2018-19,Thon Maker,85.0,5.0,3.2,0.7,None,South Sudan,DET
+1396,2016-17,Tiago Splitter,83.0,4.9,2.8,0.5,None,Brazil,PHI
+1397,2016-17,Tim Frazier,73.0,7.1,2.7,5.2,None,USA,NOP
+1398,2018-19,Tim Frazier,73.0,5.3,2.8,4.2,None,USA,MIL
+1399,2017-18,Tim Frazier,73.0,3.0,1.9,3.3,None,USA,WAS
+1400,2016-17,Tim Hardaway Jr.,78.0,14.5,2.8,2.3,Michigan,USA,ATL
+1401,2017-18,Tim Hardaway Jr.,78.0,17.5,3.9,2.7,Michigan,USA,NYK
+1402,2018-19,Tim Hardaway Jr.,78.0,18.1,3.4,2.4,Michigan,USA,DAL
+1403,2017-18,Tim Quarterman,78.0,1.3,1.0,0.3,Louisiana State,USA,HOU
+1404,2016-17,Tim Quarterman,78.0,1.9,0.9,0.7,Louisiana State,USA,POR
+1405,2016-17,Timofey Mozgov,85.0,7.4,4.9,0.8,None,Russia,LAL
+1406,2017-18,Timofey Mozgov,85.0,4.2,3.2,0.4,None,Russia,BKN
+1407,2018-19,Timothe Luwawu-Cabarrot,78.0,4.6,1.9,0.5,None,France,CHI
+1408,2017-18,Timothe Luwawu-Cabarrot,78.0,5.8,1.4,1.0,None,France,PHI
+1409,2016-17,Timothe Luwawu-Cabarrot,78.0,6.4,2.2,1.1,None,France,PHI
+1410,2018-19,Tobias Harris,81.0,20.0,7.9,2.8,Tennessee,USA,PHI
+1411,2017-18,Tobias Harris,81.0,18.6,5.5,2.4,Tennessee,USA,LAC
+1412,2016-17,Tobias Harris,81.0,16.1,5.1,1.7,Tennessee,USA,DET
+1413,2017-18,Tomas Satoransky,79.0,7.2,3.2,3.9,None,Czech Republic,WAS
+1414,2018-19,Tomas Satoransky,79.0,8.9,3.5,5.0,None,Czech Republic,WAS
+1415,2016-17,Tomas Satoransky,79.0,2.7,1.5,1.6,None,Czech Republic,WAS
+1416,2016-17,Toney Douglas,74.0,4.9,2.5,2.3,Florida State,USA,MEM
+1417,2016-17,Tony Allen,76.0,9.1,5.5,1.4,Oklahoma State,USA,MEM
+1418,2017-18,Tony Allen,76.0,4.7,2.1,0.4,Oklahoma State,USA,NOP
+1419,2017-18,Tony Bradley,82.0,0.9,1.2,0.1,North Carolina,USA,UTA
+1420,2018-19,Tony Bradley,82.0,5.7,5.0,0.3,North Carolina,USA,UTA
+1421,2017-18,Tony Parker,74.0,7.7,1.7,3.5,None,France,SAS
+1422,2016-17,Tony Parker,74.0,10.1,1.8,4.5,None,France,SAS
+1423,2018-19,Tony Parker,74.0,9.5,1.5,3.7,None,France,CHA
+1424,2017-18,Tony Snell,79.0,6.9,1.9,1.3, ,USA,MIL
+1425,2018-19,Tony Snell,79.0,6.0,2.1,0.9, ,USA,MIL
+1426,2016-17,Tony Snell,79.0,8.5,3.1,1.2,New Mexico,USA,MIL
+1427,2017-18,Torrey Craig,78.0,4.2,3.3,0.6,South Carolina Upstate,USA,DEN
+1428,2018-19,Torrey Craig,79.0,5.7,3.5,1.0,South Carolina Upstate,USA,DEN
+1429,2018-19,Trae Young,74.0,19.1,3.7,8.1,Oklahoma,USA,ATL
+1430,2017-18,Travis Wear,82.0,4.4,2.2,0.4,UCLA,USA,LAL
+1431,2016-17,Treveon Graham,78.0,2.1,0.8,0.2,Virginia Commonwealth,USA,CHA
+1432,2017-18,Treveon Graham,77.0,4.3,1.9,0.9,Va Commonwealth,USA,CHA
+1433,2018-19,Treveon Graham,77.0,5.3,3.1,1.0,Va Commonwealth,USA,BKN
+1434,2018-19,Trevon Duval,74.0,1.7,0.3,0.7,None,USA,HOU
+1435,2018-19,Trevor Ariza,80.0,12.5,5.4,3.7,UCLA,USA,WAS
+1436,2016-17,Trevor Ariza,80.0,11.7,5.7,2.2,UCLA,USA,HOU
+1437,2017-18,Trevor Ariza,80.0,11.7,4.4,1.6,UCLA,USA,HOU
+1438,2017-18,Trevor Booker,80.0,6.3,4.7,1.2,Clemson,USA,IND
+1439,2016-17,Trevor Booker,80.0,10.0,8.0,1.9,Clemson,USA,BKN
+1440,2016-17,Trey Burke,73.0,5.0,0.8,1.8,Michigan,USA,WAS
+1441,2018-19,Trey Burke,73.0,10.9,1.7,2.7,Michigan,USA,DAL
+1442,2017-18,Trey Burke,73.0,12.8,2.0,4.7,Michigan,USA,NYK
+1443,2016-17,Trey Lyles,82.0,6.2,3.3,1.0,Kentucky,USA,UTA
+1444,2018-19,Trey Lyles,82.0,8.5,3.8,1.4,Kentucky,USA,DEN
+1445,2017-18,Trey Lyles,82.0,9.9,4.8,1.2,Kentucky,USA,DEN
+1446,2017-18,Trey McKinney-Jones,77.0,0.0,0.0,0.0,Miami (FL),USA,IND
+1447,2016-17,Tristan Thompson,81.0,8.1,9.2,1.0,Texas,Canada,CLE
+1448,2018-19,Tristan Thompson,82.0,10.9,10.2,2.0,Texas,Canada,CLE
+1449,2017-18,Tristan Thompson,81.0,5.8,6.6,0.6,Texas,Canada,CLE
+1450,2018-19,Troy Brown Jr.,79.0,4.8,2.8,1.5,Oregon,USA,WAS
+1451,2018-19,Troy Caupain,76.0,2.5,0.8,1.0,Cincinnati,USA,ORL
+1452,2016-17,Troy Daniels,76.0,8.2,1.5,0.7,Virginia Commonwealth,USA,MEM
+1453,2017-18,Troy Daniels,76.0,8.9,1.6,0.6,Va Commonwealth,USA,PHX
+1454,2018-19,Troy Daniels,76.0,6.2,1.4,0.5,Va Commonwealth,USA,PHX
+1455,2018-19,Troy Williams,79.0,5.3,2.8,0.5,Indiana,USA,SAC
+1456,2016-17,Troy Williams,79.0,6.2,2.3,0.8,Indiana,USA,HOU
+1457,2017-18,Troy Williams,79.0,6.3,3.0,0.8,Indiana,USA,NYK
+1458,2016-17,Ty Lawson,71.0,9.9,2.6,4.8,North Carolina,USA,SAC
+1459,2018-19,Tyler Cavanaugh,81.0,0.8,0.7,0.1,George Washington,USA,UTA
+1460,2017-18,Tyler Cavanaugh,81.0,4.7,3.3,0.7,George Washington,USA,ATL
+1461,2018-19,Tyler Davis,82.0,0.0,1.0,0.0,None,USA,OKC
+1462,2017-18,Tyler Dorsey,77.0,7.2,2.3,1.4,Oregon,USA,ATL
+1463,2018-19,Tyler Dorsey,77.0,6.2,2.4,1.2,Oregon,USA,MEM
+1464,2017-18,Tyler Ennis,75.0,4.1,1.8,1.9,Syracuse,Canada,LAL
+1465,2016-17,Tyler Ennis,75.0,4.3,0.8,1.6,Syracuse,Canada,LAL
+1466,2017-18,Tyler Johnson,76.0,11.7,3.4,2.3,Fresno State,USA,MIA
+1467,2016-17,Tyler Johnson,76.0,13.7,4.0,3.2,Fresno State,USA,MIA
+1468,2018-19,Tyler Johnson,76.0,10.9,3.0,2.9,Fresno State,USA,PHX
+1469,2018-19,Tyler Lydon,82.0,0.9,0.7,0.2,Syracuse,USA,DEN
+1470,2017-18,Tyler Lydon,81.0,0.0,0.0,0.0,Syracuse,USA,DEN
+1471,2016-17,Tyler Ulis,70.0,7.3,1.6,3.7,Kentucky,USA,PHX
+1472,2018-19,Tyler Ulis,70.0,0.0,0.0,0.0,Kentucky,USA,CHI
+1473,2017-18,Tyler Ulis,70.0,7.8,1.8,4.4,Kentucky,USA,PHX
+1474,2016-17,Tyler Zeller,84.0,3.5,2.4,0.8,North Carolina,USA,BOS
+1475,2018-19,Tyler Zeller,84.0,7.7,4.0,0.7,North Carolina,USA,MEM
+1476,2017-18,Tyler Zeller,84.0,6.7,4.6,0.7,North Carolina,USA,MIL
+1477,2016-17,Tyreke Evans,78.0,10.3,3.4,3.1,Memphis,USA,SAC
+1478,2017-18,Tyreke Evans,78.0,19.4,5.1,5.2,Memphis,USA,MEM
+1479,2018-19,Tyreke Evans,78.0,10.2,2.9,2.4,Memphis,USA,IND
+1480,2018-19,Tyrone Wallace,77.0,3.5,1.6,0.7,California,USA,LAC
+1481,2017-18,Tyrone Wallace,77.0,9.7,3.5,2.4,California,USA,LAC
+1482,2016-17,Tyson Chandler,85.0,8.4,11.5,0.6,None,USA,PHX
+1483,2018-19,Tyson Chandler,85.0,3.1,5.6,0.7,None,USA,LAL
+1484,2017-18,Tyson Chandler,85.0,6.5,9.1,1.2,None,USA,PHX
+1485,2016-17,Tyus Jones,74.0,3.5,1.1,2.6,Duke,USA,MIN
+1486,2018-19,Tyus Jones,74.0,6.9,2.0,4.8,Duke,USA,MIN
+1487,2017-18,Tyus Jones,74.0,5.1,1.6,2.8,Duke,USA,MIN
+1488,2017-18,Udonis Haslem,80.0,0.6,0.7,0.4,Florida,USA,MIA
+1489,2016-17,Udonis Haslem,80.0,1.9,2.3,0.4,Florida,USA,MIA
+1490,2018-19,Udonis Haslem,80.0,2.5,2.7,0.2,Florida,USA,MIA
+1491,2017-18,Vander Blue,77.0,0.6,0.2,0.6,Marquette,USA,LAL
+1492,2018-19,Victor Oladipo,76.0,18.8,5.6,5.2,Indiana,USA,IND
+1493,2017-18,Victor Oladipo,76.0,23.1,5.2,4.3,Indiana,USA,IND
+1494,2016-17,Victor Oladipo,76.0,15.9,4.3,2.6,Indiana,USA,OKC
+1495,2018-19,Vince Carter,78.0,7.4,2.6,1.1,North Carolina,USA,ATL
+1496,2016-17,Vince Carter,78.0,8.0,3.1,1.8,North Carolina,USA,MEM
+1497,2017-18,Vince Carter,78.0,5.4,2.6,1.2,North Carolina,USA,SAC
+1498,2018-19,Vincent Edwards,80.0,1.5,1.0,0.0,Purdue,USA,HOU
+1499,2017-18,Vincent Hunter,80.0,1.5,0.8,0.0,Texas-El Paso,USA,MEM
+1500,2017-18,Wade Baldwin IV,76.0,5.4,1.1,0.7,Vanderbilt,USA,POR
+1501,2016-17,Wade Baldwin IV,76.0,3.2,1.4,1.8,Vanderbilt,USA,MEM
+1502,2018-19,Wade Baldwin IV,76.0,1.9,0.9,0.8,Vanderbilt,USA,POR
+1503,2018-19,Walt Lemon Jr.,75.0,14.3,4.5,5.0,None,USA,CHI
+1504,2017-18,Walt Lemon Jr.,75.0,3.4,0.4,1.0,None,USA,NOP
+1505,2016-17,Wayne Ellington,76.0,10.5,2.1,1.1,North Carolina,USA,MIA
+1506,2017-18,Wayne Ellington,77.0,11.2,2.8,1.0,North Carolina,USA,MIA
+1507,2018-19,Wayne Ellington,77.0,10.3,2.0,1.4,North Carolina,USA,DET
+1508,2016-17,Wayne Selden,77.0,5.1,1.1,0.9,Kansas,USA,MEM
+1509,2017-18,Wayne Selden,77.0,9.3,1.6,1.9,Kansas,USA,MEM
+1510,2018-19,Wayne Selden,77.0,6.9,2.4,1.5,Kansas,USA,CHI
+1511,2018-19,Wendell Carter Jr.,82.0,10.3,7.0,1.8,Duke,USA,CHI
+1512,2018-19,Wes Iwundu,79.0,5.0,2.7,1.1,Kansas State,USA,ORL
+1513,2017-18,Wes Iwundu,79.0,3.7,2.2,0.9,Kansas State,USA,ORL
+1514,2017-18,Wesley Johnson,79.0,5.4,2.9,0.8,Syracuse,USA,LAC
+1515,2016-17,Wesley Johnson,79.0,2.7,2.7,0.3,Syracuse,USA,LAC
+1516,2018-19,Wesley Johnson,79.0,3.4,1.9,0.6,Syracuse,USA,WAS
+1517,2018-19,Wesley Matthews,77.0,12.2,2.5,2.3,Marquette,USA,IND
+1518,2016-17,Wesley Matthews,77.0,13.5,3.5,2.9,Marquette,USA,DAL
+1519,2017-18,Wesley Matthews,77.0,12.7,3.1,2.7,Marquette,USA,DAL
+1520,2017-18,Will Barton,78.0,15.7,5.0,4.1,Memphis,USA,DEN
+1521,2018-19,Will Barton,78.0,11.5,4.6,2.9,Memphis,USA,DEN
+1522,2016-17,Will Barton,78.0,13.7,4.3,3.4,Memphis,USA,DEN
+1523,2016-17,Willie Cauley-Stein,84.0,8.1,4.5,1.1,Kentucky,USA,SAC
+1524,2017-18,Willie Cauley-Stein,84.0,12.8,7.0,2.4,Kentucky,USA,SAC
+1525,2018-19,Willie Cauley-Stein,84.0,11.9,8.4,2.4,Kentucky,USA,SAC
+1526,2017-18,Willie Reed,83.0,4.6,2.9,0.2,St. Louis,USA,LAC
+1527,2016-17,Willie Reed,83.0,5.3,4.7,0.4,Saint Louis,USA,MIA
+1528,2018-19,Willy Hernangomez,83.0,7.3,5.4,1.0,None,Spain,CHA
+1529,2017-18,Willy Hernangomez,83.0,5.1,3.8,0.7,None,Spain,CHA
+1530,2016-17,Willy Hernangomez,83.0,8.2,7.0,1.3,None,Spain,NYK
+1531,2016-17,Wilson Chandler,80.0,15.7,6.5,2.0,DePaul,USA,DEN
+1532,2017-18,Wilson Chandler,81.0,10.0,5.4,2.1,DePaul,USA,DEN
+1533,2018-19,Wilson Chandler,81.0,6.0,4.2,1.6,DePaul,USA,LAC
+1534,2017-18,Xavier Munford,76.0,0.5,0.2,0.7,Rhode Island,USA,MIL
+1535,2017-18,Xavier Rathan-Mayes,76.0,5.8,1.0,3.6,Florida State,Canada,NYK
+1536,2017-18,Xavier Silas,77.0,0.0,1.0,0.0,Northern Illinois,USA,BOS
+1537,2018-19,Yante Maten,80.0,1.0,1.5,0.0,None,USA,MIA
+1538,2016-17,Yogi Ferrell,72.0,10.0,2.4,3.7,Indiana,USA,DAL
+1539,2018-19,Yogi Ferrell,72.0,5.9,1.5,1.9,Indiana,USA,SAC
+1540,2017-18,Yogi Ferrell,72.0,10.2,3.0,2.5,Indiana,USA,DAL
+1541,2018-19,Yuta Watanabe,81.0,2.6,2.1,0.5,George Washington,Japan,MEM
+1542,2018-19,Zach Collins,84.0,6.6,4.2,0.9,Gonzaga,USA,POR
+1543,2017-18,Zach Collins,84.0,4.4,3.3,0.8,Gonzaga,USA,POR
+1544,2016-17,Zach LaVine,77.0,18.9,3.4,3.0,UCLA,USA,MIN
+1545,2017-18,Zach LaVine,77.0,16.7,3.9,3.0,UCLA,USA,CHI
+1546,2018-19,Zach LaVine,77.0,23.7,4.7,4.5,UCLA,USA,CHI
+1547,2018-19,Zach Lofton,76.0,0.0,0.0,0.0,New Mexico State,USA,DET
+1548,2017-18,Zach Randolph,81.0,14.5,6.7,2.2,Michigan State,USA,SAC
+1549,2016-17,Zach Randolph,81.0,14.1,8.2,1.7,Michigan State,USA,MEM
+1550,2016-17,Zaza Pachulia,83.0,6.1,5.9,1.9,None,Georgia,GSW
+1551,2017-18,Zaza Pachulia,83.0,5.4,4.7,1.6,None,Georgia,GSW
+1552,2018-19,Zaza Pachulia,83.0,3.9,3.9,1.3,None,Georgia,DET
+1553,2018-19,Zhaire Smith,76.0,6.7,2.2,1.7,Texas Tech,USA,PHI
+1554,2017-18,Zhou Qi,85.0,1.2,1.2,0.1,None,China,HOU
+1555,2018-19,Zhou Qi,85.0,2.0,0.0,0.0,None,China,HOU
